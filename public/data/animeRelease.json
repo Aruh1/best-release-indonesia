@@ -43,6 +43,22 @@
         ]
     },
     {
+        "malId": 53128,
+        "title": "Atri: My Dear Moments",
+        "bestReleases": [
+            {
+                "name": "Kaleido-subs + Doronime"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[Doronime]",
+                "description": "Batch BD 1080p",
+                "downloadLinks": ["https://drive.google.com/file/d/12qen1oIj9pV31KiFY2LeGhDyeTvpYHd8"]
+            }
+        ]
+    },
+    {
         "malId": 34618,
         "title": "Blend S",
         "bestAlternatives": [
@@ -841,6 +857,22 @@
                 "downloadLinks": [
                     "https://unpakacid-my.sharepoint.com/:f:/g/personal/ismirantinur67147_unpak_ac_id/EjipQzf2n9FLjCHBtrb7UNIBD7o9MoLOktpYxqy2UN9beg?e=tHCai6"
                 ]
+            }
+        ]
+    },
+    {
+        "malId": 52736,
+        "title": "Tensei Oujo to Tensai Reijou no Mahou Kakumei",
+        "bestReleases": [
+            {
+                "name": "smol + NotGoodLeqek"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[NotGoodLeqek]",
+                "description": "BD 1080p",
+                "downloadLinks": ["https://drive.google.com/drive/folders/1W0TDqRFRSIccEYJak4gbeL3xVQZ5gZvn"]
             }
         ]
     },
