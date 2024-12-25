@@ -38,6 +38,11 @@ const FaqPage = () => {
             title: "Apakah aku bisa memasukkan garapanku ke dalam rilisan terbaik?",
             content:
                 "Kamu dapat bergabung dengan peladen Discord kami melalui ikon di bagian kanan atas. Silakan *mention* Pololer atau Karuizawa Kei agar garapanmu dapat dipertimbangkan."
+        },
+        {
+            title: "Bagaimana aku mengetahui file tersebut Batch, Part, OVA, dll?",
+            content:
+                "Kami mencantumkan informasi tersebut di bagian deskripsi rilisan. Jika kamu tidak menemukan informasi tersebut, silakan bergabung dengan peladen Discord kami dan bertanya langsung kepada anggota lain."
         }
     ];
 

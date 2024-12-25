@@ -32,15 +32,13 @@ const ReleaseStatic = () => {
             .then(data => {
                 // Sort releases by title
                 const sortedData = [...data].sort((a, b) => {
-                    const titleA = (animeDataCache[a.malId]?.title || a.title).toLowerCase();
-                    const titleB = (animeDataCache[b.malId]?.title || b.title).toLowerCase();
-                    return titleA.localeCompare(titleB);
+                    return a.title.toLowerCase().localeCompare(b.title.toLowerCase());
                 });
                 setReleases(sortedData);
             })
             .catch(err => setError(err.message))
             .finally(() => setIsLoading(false));
-    }, [animeDataCache]);
+    }, []);
 
     const extractLink = (text: string): string | null => {
         const match = text.match(/https?:\/\/[^\s]+/);
@@ -98,7 +96,15 @@ const ReleaseStatic = () => {
 
                     return (
                         <TableRow key={release.malId}>
-                            <TableCell>{animeData?.title || release.title}</TableCell>
+                            <TableCell>
+                                {animeData?.url ? (
+                                    <Link href={animeData.url} isExternal color="foreground">
+                                        {animeData.title || release.title}
+                                    </Link>
+                                ) : (
+                                    animeData?.title || release.title
+                                )}
+                            </TableCell>
                             <TableCell>{renderReleases(release.bestReleases)}</TableCell>
                             <TableCell>{renderReleases(release.bestAlternatives)}</TableCell>
                             <TableCell className="whitespace-pre-line">{release.notes}</TableCell>
