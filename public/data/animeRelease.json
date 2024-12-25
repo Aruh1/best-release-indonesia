@@ -136,6 +136,19 @@
         ]
     },
     {
+        "malId": 33988,
+        "title": "Demi-chan wa Kataritai",
+        "bestAlternatives": [
+            {
+                "name": "[Nutrisari]",
+                "description": "Caramel WEB 1080p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/0B2F1JfIOuTgNSVJlSFZWRnJRb0U?resourcekey=0-KZF_PRqp1yu0REz90lNXnw&usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
         "malId": 38062,
         "title": "Endro~!",
         "bestAlternatives": [
@@ -157,6 +170,17 @@
                 "downloadLinks": [
                     "https://drive.google.com/drive/folders/11L-Iet9c6zLZBTAxNPw6K4XXDRQ_Sm68?usp=sharing"
                 ]
+            }
+        ]
+    },
+    {
+        "malId": 49605,
+        "title": "Ganbare Douki-chan",
+        "bestAlternatives": [
+            {
+                "name": "[Haruzora]",
+                "description": "BD 1080p",
+                "downloadLinks": ["https://files.h4ru.my.id/1:/Semangat%20Neng%20Douki%20%5BBD%5D/"]
             }
         ]
     },
@@ -750,6 +774,17 @@
             }
         ],
         "notes": "Video:\n sam \n Takarir:\n Hinose & Ankoku (D-A)"
+    },
+    {
+        "malId": 39456,
+        "title": "Sounan desu ka?",
+        "bestAlternatives": [
+            {
+                "name": "[HaruSekai]",
+                "description": "BD 1080p",
+                "downloadLinks": ["https://files.h4ru.my.id/1:/Sounan%20Desu%20ka%20[BD]/1080p/"]
+            }
+        ]
     },
     {
         "malId": 52991,
