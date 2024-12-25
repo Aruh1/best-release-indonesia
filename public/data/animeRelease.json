@@ -339,6 +339,18 @@
         "notes": "Video :\nBeatrice-Raws\nTakarir :\n- Japanese [PGS]\n- [Moesubs/FFF] Pantsubber Edit oleh Menggabut [bagus089] (Default)"
     },
     {
+        "malId": 38959,
+        "title": "Lord El-Melloi II-sei no Jikenbo: Rail Zeppelin Grace Note",
+        "bestAlternatives": [
+            {
+                "name": "[Yukisubs]",
+                "downloadLinks": [
+                    "https://mygavilan-my.sharepoint.com/:f:/g/personal/yuki_fansub_my_gavilan_edu/EtnT5OmZ0vVGuzokA3ZbN08BYs28PYYvDGKDSbXmegSwVg?e=uxiPMY"
+                ]
+            }
+        ]
+    },
+    {
         "malId": 50709,
         "title": "Lycoris Recoil",
         "bestReleases": [
@@ -412,14 +424,20 @@
         "title": "Masamune-kun no Revenge",
         "bestReleases": [
             {
-                "name": "smol + Yukimisu + TamanBunga + Zensub"
+                "name": "smol + Yukimisu, TamanBunga, Zensub"
             }
         ],
         "bestAlternatives": [
             {
-                "name": "S1 : [pololer]",
+                "name": "S1: [pololer]",
                 "downloadLinks": [
                     "https://www.pololer.web.id/0:/[pololer]%20Masamune-kun%20no%20Revenge%20(BDRip%201920x1080%20x264%20FLAC)/"
+                ]
+            },
+            {
+                "name": "S1: [Yukimisu]",
+                "downloadLinks": [
+                    "https://unpakacid-my.sharepoint.com/:f:/g/personal/ismirantinur67147_unpak_ac_id/Eiie549rWgRNtaO51Vr3u9oBG4CdVhhW42OLWsvQrtlmDw?e=WfcZjC"
                 ]
             }
         ],
@@ -437,6 +455,17 @@
             }
         ],
         "notes": "Video:\n VCB-Studio \n Skrip:\n AnimeSubIND"
+    },
+    {
+        "malId": 35078,
+        "title": "Mitsuboshi Colors",
+        "bestAlternatives": [
+            {
+                "name": "[Colors]",
+                "description": "WEB 720p Tiramisubs & Sora Iro",
+                "downloadLinks": ["https://mega.nz/#F!UgpHlB7Z!t4UbLO9hOSaSsEI69QMRzQ"]
+            }
+        ]
     },
     {
         "malId": 19815,
@@ -628,6 +657,19 @@
         "notes": "Legion ITABD Encode + Oploverz"
     },
     {
+        "malId": 35790,
+        "title": "Tate no Yuusha no Nariagari",
+        "bestAlternatives": [
+            {
+                "name": "[Yukimisu]",
+                "description": "WEB 720p",
+                "downloadLinks": [
+                    "https://unpakacid-my.sharepoint.com/:f:/g/personal/ismirantinur67147_unpak_ac_id/EjipQzf2n9FLjCHBtrb7UNIBD7o9MoLOktpYxqy2UN9beg?e=tHCai6"
+                ]
+            }
+        ]
+    },
+    {
         "malId": 53516,
         "title": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu",
         "bestAlternatives": [
@@ -664,6 +706,19 @@
             }
         ],
         "notes": "Video:\n Kawaiika-raws \n Takarir:\n Yukisubs (N4O)"
+    },
+    {
+        "malId": 39324,
+        "title": "Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.",
+        "bestAlternatives": [
+            {
+                "name": "[Yukimisu]",
+                "description": "WEB 720p",
+                "downloadLinks": [
+                    "https://unpakacid-my.sharepoint.com/:f:/g/personal/ismirantinur67147_unpak_ac_id/Eie6cu8CX7dEkpfoeQknXHMBk3r99MkFpogXf2VLDhKrbQ?e=hsfJIC"
+                ]
+            }
+        ]
     },
     {
         "malId": 33589,
