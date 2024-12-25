@@ -30,7 +30,6 @@ const ReleaseStatic = () => {
                 return res.json();
             })
             .then(data => {
-                // Sort releases by title
                 const sortedData = [...data].sort((a, b) => {
                     return a.title.toLowerCase().localeCompare(b.title.toLowerCase());
                 });
@@ -52,13 +51,19 @@ const ReleaseStatic = () => {
         return releases.map((release, index) => (
             <div key={release.name || index} className="flex items-center gap-2">
                 {release.downloadLinks ? (
-                    <Link
-                        href={Array.isArray(release.downloadLinks) ? release.downloadLinks[0] : release.downloadLinks}
-                        isExternal
-                        color="primary"
-                    >
-                        {release.name || "Download"}
-                    </Link>
+                    Array.isArray(release.downloadLinks) ? (
+                        release.downloadLinks.map((link, linkIndex) => (
+                            <Link key={linkIndex} href={link} isExternal color="primary">
+                                {release.name ? 
+                                    (Array.isArray(release.downloadLinks) && release.downloadLinks.length > 1 ? `${release.name} #${linkIndex + 1}` : release.name)
+                                    : (Array.isArray(release.downloadLinks) && release.downloadLinks.length > 1 ? `Download #${linkIndex + 1}` : "Download")}
+                            </Link>
+                        ))
+                    ) : (
+                        <Link href={release.downloadLinks} isExternal color="primary">
+                            {release.name || "Download"}
+                        </Link>
+                    )
                 ) : (
                     <span className="text-blue-400">{release.name || "N/A"}</span>
                 )}
@@ -82,7 +87,7 @@ const ReleaseStatic = () => {
         );
 
     return (
-        <Table aria-label="Anime releases table" className="w-full">
+        <Table aria-label="Best Release Table" className="w-full">
             <TableHeader>
                 <TableColumn>Title</TableColumn>
                 <TableColumn>Best</TableColumn>
