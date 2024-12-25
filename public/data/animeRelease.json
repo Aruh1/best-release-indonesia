@@ -32,6 +32,17 @@
         "notes": "Takarir:\n Aizukara-Melody"
     },
     {
+        "malId": 41812,
+        "title": "Atasha Kawashiri Kodama da yo",
+        "bestAlternatives": [
+            {
+                "name": "[Haruzora]",
+                "description": "WEB 1080p",
+                "downloadLinks": ["https://files.h4ru.my.id/1:/Aku%20Kawashiri%20Kodama/"]
+            }
+        ]
+    },
+    {
         "malId": 34618,
         "title": "Blend S",
         "bestAlternatives": [
@@ -85,6 +96,44 @@
             }
         ],
         "notes": "UBW (Moesubs (1-5), Kuroyuri (6-12))"
+    },
+    {
+        "malId": 35756,
+        "title": "Comic Girls",
+        "bestReleases": [
+            {
+                "name": "Xonline + Haruzora, Melody"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[Haruzora]",
+                "description": "BD 1080p",
+                "downloadLinks": ["https://files.h4ru.my.id/1:/Comic%20Girl%20[BD]/"]
+            }
+        ]
+    },
+    {
+        "malId": 51586,
+        "title": "D4DJ All Mix",
+        "bestAlternatives": [
+            {
+                "name": "[Haruzora]",
+                "description": "WEB 1080p",
+                "downloadLinks": ["https://files.h4ru.my.id/1:/Cewek%20NgeDJ%20Semua%20Nyampur/"]
+            }
+        ]
+    },
+    {
+        "malId": 39681,
+        "title": "D4DJ First Mix",
+        "bestAlternatives": [
+            {
+                "name": "[Haruzora]",
+                "description": "BD 1080p",
+                "downloadLinks": ["https://files.h4ru.my.id/1:/D4DJ%20[BD]/1080p/"]
+            }
+        ]
     },
     {
         "malId": 38062,
@@ -146,15 +195,26 @@
     {
         "malId": 27989,
         "title": "Hibike! Euphonium",
-        "bestAlternatives": [
+        "bestReleases": [
             {
-                "name": "S1 : [pololer]",
-                "downloadLinks": [
-                    "https://www.pololer.web.id/0:/[pololer]%20Hibike!%20Euphonium%20(Sound!%20Euphonium)%20(BDRip%201920x1080%20x264%20FLAC)/"
-                ]
+                "name": "MTBB + Haruzora"
             }
         ],
-        "notes": "Video :\nsergey_krs\nTakarir :\n- Pantsubber"
+        "bestAlternatives": [
+            {
+                "name": "S1: [H4ru]",
+                "description": "Pantsubber",
+                "downloadLinks": ["https://files.h4ru.my.id/1:/Hibike!%20Euphonium%20[BD]/"]
+            },
+            {
+                "name": "S2: [Haruzora]",
+                "downloadLinks": ["https://files.h4ru.my.id/1:/Hibike!%20Euphonium%202%20[BD]/1080p/"]
+            },
+            {
+                "name": "S3: [Haruzora]",
+                "downloadLinks": ["https://files.h4ru.my.id/1:/Hibike!%20Euphonium%203/"]
+            }
+        ]
     },
     {
         "malId": 31500,
@@ -229,6 +289,23 @@
                 "downloadLinks": ["https://terabox.com/s/197U7anbG2VMRWbWuY5v9aA"]
             }
         ]
+    },
+    {
+        "malId": 40595,
+        "title": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen",
+        "bestReleases": [
+            {
+                "name": "Pasta + AliansiGaje"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[AliansiGaje]",
+                "description": "WEB 1080p",
+                "downloadLinks": ["https://files.h4ru.my.id/1:/Kimisen%20[BD]/1080p/"]
+            }
+        ],
+        "notes": "Takarir: \n AliansiGaje (Aizukara, Haruzora, Hunter no Sekai, Pendekarsubs)"
     },
     {
         "malId": 37475,
@@ -457,6 +534,22 @@
         "notes": "Video:\n VCB-Studio \n Skrip:\n AnimeSubIND"
     },
     {
+        "malId": 41812,
+        "title": "Megami-ryou no Ryoubo-kun.",
+        "bestReleases": [
+            {
+                "name": "Kawaiika-Raws + Kopajasubs, Yurasubs"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[Yurasubs]",
+                "description": "BD 1080p",
+                "downloadLinks": ["https://ddl.yurasu.xyz/0:/Megami-ryou/BD/"]
+            }
+        ]
+    },
+    {
         "malId": 35078,
         "title": "Mitsuboshi Colors",
         "bestAlternatives": [
@@ -568,6 +661,24 @@
                 "description": "Batch BD 1080p",
                 "downloadLinks": [
                     "https://unpakacid-my.sharepoint.com/:u:/g/personal/craftjosie4095_unpak_ac_id/EY3dS6RlojVFr2V3Qu3f7T8BT5ebm4_BWoAGRSE1SiG0vA?e=Q06ivU&download=1"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 35847,
+        "title": "SSSS.Gridman",
+        "bestReleases": [
+            {
+                "name": "KH + Melody"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[Melody]",
+                "description": "Batch BD 1080p",
+                "downloadLinks": [
+                    "https://unpakacid-my.sharepoint.com/:u:/g/personal/craftjosie4095_unpak_ac_id/ERvQItq0KpZApr6hbNEK5Q8BP-y8Ctdw-QKgZApObAxNMw?e=gvtxEZ&download=1"
                 ]
             }
         ]
