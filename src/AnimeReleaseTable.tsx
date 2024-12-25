@@ -51,7 +51,7 @@ const AnimeReleaseTable: React.FC = () => {
             <div className="overflow-x-auto">
                 <Table
                     selectionMode="single"
-                    aria-label="Anime releases table"
+                    aria-label="Best Releases Table"
                     className="min-w-full"
                     classNames={{
                         wrapper: "min-w-full",

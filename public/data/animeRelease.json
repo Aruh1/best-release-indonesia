@@ -59,6 +59,17 @@
         ]
     },
     {
+        "malId": 50606,
+        "title": "Ayakashi Triangle",
+        "bestAlternatives": [
+            {
+                "name": "[Manga Neko]",
+                "description": "Batch Part BD 1080p",
+                "downloadLinks": ["https://drive.google.com/drive/folders/1uRVG1drBEonSSXugmtZlhSuqA5oQdoGw"]
+            }
+        ]
+    },
+    {
         "malId": 34618,
         "title": "Blend S",
         "bestAlternatives": [
@@ -283,6 +294,17 @@
         ]
     },
     {
+        "malId": 42897,
+        "title": "Horimiya",
+        "bestAlternatives": [
+            {
+                "name": "[Manga Neko]",
+                "description": "BD 1080p",
+                "downloadLinks": ["https://drive.google.com/drive/folders/1vnRdah4S_kH0kLvz9_DbptRfZ46c9rSI"]
+            }
+        ]
+    },
+    {
         "malId": 53262,
         "title": "Hoshikuzu Telepath",
         "bestReleases": [
@@ -362,6 +384,22 @@
             }
         ],
         "notes": "Takarir: \n AliansiGaje (Aizukara, Haruzora, Hunter no Sekai, Pendekarsubs)"
+    },
+    {
+        "malId": 50796,
+        "title": "Kimi wa Houkago Insomnia",
+        "bestReleases": [
+            {
+                "name": "Okay-Subs + Manga Neko"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[Manga Neko]",
+                "description": "Batch BD 1080p",
+                "downloadLinks": ["https://drive.google.com/file/d/1cxS296By-rhgUvmSRW4I8So2DXpwJomg/view"]
+            }
+        ]
     },
     {
         "malId": 37475,
@@ -889,6 +927,20 @@
             }
         ],
         "notes": "Video:\n pololer \n Takarir:\n Durandal Fansub"
+    },
+    {
+        "malId": 49891,
+        "title": "Tensei shitara Ken deshita",
+        "bestAlternatives": [
+            {
+                "name": "[Manga Neko]",
+                "description": "Batch Part BD 1080p",
+                "downloadLinks": [
+                    "https://drive.google.com/file/d/1LQ_oEa2hVyRt8WykqV1n5UDwh0qmF_Jr/view",
+                    "https://drive.google.com/file/d/15WEvwKdTl-E7JpkqvUaCsG51f_x22-9N/view"
+                ]
+            }
+        ]
     },
     {
         "malId": 33341,
