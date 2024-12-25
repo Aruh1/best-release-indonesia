@@ -54,9 +54,13 @@ const ReleaseStatic = () => {
                     Array.isArray(release.downloadLinks) ? (
                         release.downloadLinks.map((link, linkIndex) => (
                             <Link key={linkIndex} href={link} isExternal color="primary">
-                                {release.name ? 
-                                    (Array.isArray(release.downloadLinks) && release.downloadLinks.length > 1 ? `${release.name} #${linkIndex + 1}` : release.name)
-                                    : (Array.isArray(release.downloadLinks) && release.downloadLinks.length > 1 ? `Download #${linkIndex + 1}` : "Download")}
+                                {release.name
+                                    ? Array.isArray(release.downloadLinks) && release.downloadLinks.length > 1
+                                        ? `${release.name} #${linkIndex + 1}`
+                                        : release.name
+                                    : Array.isArray(release.downloadLinks) && release.downloadLinks.length > 1
+                                      ? `Download #${linkIndex + 1}`
+                                      : "Download"}
                             </Link>
                         ))
                     ) : (
