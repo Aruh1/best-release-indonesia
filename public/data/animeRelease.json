@@ -190,6 +190,37 @@
         ]
     },
     {
+        "malId": 32212,
+        "title": "Ensemble Stars!",
+        "bestAlternatives": [
+            {
+                "name": "[Melody]",
+                "description": "Batch WEB 1080p",
+                "downloadLinks": [
+                    "https://unpakacid-my.sharepoint.com/:u:/g/personal/craftjosie4095_unpak_ac_id/EbGXLCJHACRFqOuAaY2n4oIBzRapm-Adyq85r6FONTmSlQ?e=MHKhvp&download=1"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 39545,
+        "title": "Fragtime",
+        "bestReleases": [
+            {
+                "name": "smol + Melody"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[Melody]",
+                "description": "BD 1080p",
+                "downloadLinks": [
+                    "https://unpakacid-my.sharepoint.com/:v:/g/personal/craftjosie4095_unpak_ac_id/EchxMtKBMMJNmSEv9YVThxwBL0UEurXqocnLu4T_DN1rwQ?e=joqxK8&download=1"
+                ]
+            }
+        ]
+    },
+    {
         "malId": 50425,
         "title": "Fuufu Ijou, Koibito Miman",
         "bestReleases": [
@@ -197,6 +228,19 @@
                 "name": "[Koisuru]",
                 "downloadLinks": [
                     "https://drive.google.com/drive/folders/11L-Iet9c6zLZBTAxNPw6K4XXDRQ_Sm68?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 34280,
+        "title": "Gamers!",
+        "bestAlternatives": [
+            {
+                "name": "S1: [AIA]",
+                "description": "WEB 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1kFD9-75vPUxmguN9ZaDyX5ST0MUz6BMg?usp=sharing"
                 ]
             }
         ]
@@ -318,6 +362,24 @@
                 "name": "[Haruzora]",
                 "description": "WEB 1080p",
                 "downloadLinks": ["https://files.h4ru.my.id/1:/Telepati%20Bintang/"]
+            }
+        ]
+    },
+    {
+        "malId": 39730,
+        "title": "Houkago Teibou Nisshi",
+        "bestReleases": [
+            {
+                "name": "JPBDRemux + DuraMel"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[DuraMel]",
+                "description": "Batch WEB 1080p",
+                "downloadLinks": [
+                    "https://unpakacid-my.sharepoint.com/:u:/g/personal/craftjosie4095_unpak_ac_id/Ec0tnPgwq1FOk1VFLP5Xl0EBYoAaft6175RlXDVucP4ZBQ?e=iajRDQ&download=1"
+                ]
             }
         ]
     },
@@ -453,6 +515,31 @@
             }
         ],
         "notes": "Video:\n Beatrice-Raws \n Takarir:\n Neosubs"
+    },
+    {
+        "malId": 38080,
+        "title": "Kono Oto Tomare!",
+        "bestReleases": [
+            {
+                "name": "GHS + Nanairo-Melody"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "Pt1: [Nanairo-Melody]",
+                "description": "Batch WEB 1080p",
+                "downloadLinks": [
+                    "unpakacid-my.sharepoint.com/:u:/g/personal/craftjosie4095_unpak_ac_id/EVWILMKSMSdDt-bIevVqNWsBXe_IfvNRu4_rwoBpEQQRWw?e=I8ixfo&download=1"
+                ]
+            },
+            {
+                "name": "Pt2: [Nanairo-Melody]",
+                "description": "Batch WEB 1080p",
+                "downloadLinks": [
+                    "https://unpakacid-my.sharepoint.com/:u:/g/personal/craftjosie4095_unpak_ac_id/EYzdOTCOAtxFrIyfXF19AMwB3cHNPwf5xLynhBtGCyiZtw?e=Yk50Zh&download=1"
+                ]
+            }
+        ]
     },
     {
         "malId": 30831,
@@ -701,6 +788,19 @@
             }
         ],
         "notes": "Video :\nKawaiika-Raws"
+    },
+    {
+        "malId": 39609,
+        "title": "Ochikobore Fruit Tart",
+        "bestAlternatives": [
+            {
+                "name": "[DuraMel]",
+                "description": "Batch WEB 1080p",
+                "downloadLinks": [
+                    "https://unpakacid-my.sharepoint.com/:u:/g/personal/craftjosie4095_unpak_ac_id/Ec4kVU4j3X9Km5knCZjICVgBYoHHtkKG1c52fOoIEKVcJg?e=B2DRCq&download=1"
+                ]
+            }
+        ]
     },
     {
         "malId": 8769,
@@ -1023,6 +1123,29 @@
         ],
         "notes": "Video:\n smol \n Skrip:\n Melody Fansub",
         "qualityComparisons": "https://slow.pics/c/JjKGWWEx"
+    },
+    {
+        "malId": 14813,
+        "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru.",
+        "bestReleases": [
+            {
+                "name": "Beatrice-Raws + Jalsub & Aiasub"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "S1: [Jalsub&Aiasub]",
+                "description": "BD 720p",
+                "downloadLinks": ["https://drive.google.com/drive/folders/1heayrZrjpUAD0JibIpBDmeVx0dKR0zQY"]
+            },
+            {
+                "name": "S3: [Jalsub&Aiasub]",
+                "description": "WEB 1080p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1GgzNzuNUr5wwXiE9iP9qi1NhDpxSGuum?usp=sharing"
+                ]
+            }
+        ]
     },
     {
         "malId": 50346,
