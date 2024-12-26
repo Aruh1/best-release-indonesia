@@ -24,7 +24,7 @@ export const SearchBar: React.FC<SearchBarProps> = ({
 
     return (
         <div className="space-y-4">
-            <div className="flex items-center space-x-2">
+            <div className="flex flex-col sm:flex-row items-center gap-2">
                 <Input
                     isClearable
                     startContent={<Search className="text-default-400" size={16} />}

@@ -10,8 +10,8 @@ import Link from "next/link";
 const Header = () => {
     return (
         <header className="w-full border-b border-divider">
-            <div className="container mx-auto px-4 py-3 flex justify-between items-center">
-                <div className="flex items-center gap-4">
+            <div className="container mx-auto px-4 py-3 flex flex-col sm:flex-row justify-between items-center gap-4">
+                <div className="flex flex-col sm:flex-row items-center gap-4">
                     <div className="flex items-center gap-2">
                         <h1 className="text-2xl font-bold">Best Release Indonesia</h1>
                     </div>

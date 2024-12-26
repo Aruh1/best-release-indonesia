@@ -21,7 +21,7 @@ export const AnimeDetailModal: React.FC<AnimeDetailModalProps> = ({ isOpen, onCl
 
         return (
             <>
-                <ModalHeader className="flex gap-1 text-lg sm:text-xl break-words">
+                <ModalHeader className="text-lg sm:text-xl break-words">
                     <Link href={animeData.url} isExternal color="foreground" target="_blank">
                         {animeData.title}
                     </Link>
@@ -75,7 +75,7 @@ export const AnimeDetailModal: React.FC<AnimeDetailModalProps> = ({ isOpen, onCl
                                     </Tab>
                                 )}
                                 {selectedRelease.qualityComparisons && (
-                                    <Tab key="quality" title="Quality">
+                                    <Tab key="comp" title="Comparisons">
                                         <div className="p-2 space-y-2">
                                             <TextFormatter text={selectedRelease.qualityComparisons} />
                                         </div>
