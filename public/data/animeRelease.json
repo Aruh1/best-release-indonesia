@@ -135,10 +135,11 @@
         "bestAlternatives": [
             {
                 "name": "[Haruzora]",
-                "description": "BD 1080p",
+                "description": "Moozzi2",
                 "downloadLinks": ["https://files.h4ru.my.id/1:/Comic%20Girl%20[BD]/"]
             }
-        ]
+        ],
+        "notes": "Takarir:\n - Sora Iro-Ginsub (Edited)"
     },
     {
         "malId": 51586,
@@ -379,7 +380,7 @@
         "bestAlternatives": [
             {
                 "name": "[AliansiGaje]",
-                "description": "WEB 1080p",
+                "description": "BD 1080p",
                 "downloadLinks": ["https://files.h4ru.my.id/1:/Kimisen%20[BD]/1080p/"]
             }
         ],
@@ -806,6 +807,11 @@
     {
         "malId": 35503,
         "title": "Shoujo☆Kageki Revue Starlight",
+        "bestReleases": [
+            {
+                "name": "JPBDRemux + Melody"
+            }
+        ],
         "bestAlternatives": [
             {
                 "name": "[Melody]",
@@ -814,7 +820,8 @@
                     "https://unpakacid-my.sharepoint.com/:u:/g/personal/craftjosie4095_unpak_ac_id/EZ6TJjPw0d5Avi4JOncApnwBLubi8oNOxU7NXg7DKxilnQ?e=BMoWzb&download=1"
                 ]
             }
-        ]
+        ],
+        "qualityComparisons": "https://slow.pics/c/iI7K3Q1m"
     },
     {
         "malId": 33502,

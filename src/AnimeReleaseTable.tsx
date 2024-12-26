@@ -18,7 +18,10 @@ const AnimeReleaseTable: React.FC = () => {
     const { animeDataCache, isLoading: isAnimeDataLoading, loadingStatus } = useAnimeData(releases);
 
     // Now we can use animeDataCache for search
-    const { searchQuery, setSearchQuery, filteredReleases } = useSearch(releases, animeDataCache);
+    const { searchQuery, setSearchQuery, filteredReleases, isGroupSearch, setIsGroupSearch } = useSearch(
+        releases,
+        animeDataCache
+    );
 
     // Modal state
     const [selectedRelease, setSelectedRelease] = useState<AnimeRelease | null>(null);
@@ -46,7 +49,13 @@ const AnimeReleaseTable: React.FC = () => {
 
     return (
         <div className="w-full space-y-4">
-            <SearchBar value={searchQuery} onChange={setSearchQuery} onClear={() => setSearchQuery("")} />
+            <SearchBar
+                value={searchQuery}
+                onChange={setSearchQuery}
+                onClear={() => setSearchQuery("")}
+                isGroupSearch={isGroupSearch}
+                onGroupSearchChange={setIsGroupSearch}
+            />
 
             <div className="overflow-x-auto">
                 <Table
