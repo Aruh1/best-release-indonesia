@@ -32,6 +32,42 @@
         "notes": "Takarir:\n Aizukara-Melody"
     },
     {
+        "malId": 38753,
+        "title": "Araburu Kisetsu no Otome-domo yo.",
+        "bestReleases": [
+            {
+                "name": "VCB-Studio + Yukisubs"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[Yukisubs]",
+                "description": "WEB 1080p",
+                "downloadLinks": [
+                    "https://mygavilan-my.sharepoint.com/:f:/g/personal/yuki_fansub_my_gavilan_edu/EpV1-OASngNIjfUhIiGeDUUBWMYHeqIiBSWn13tG01ud1w?e=UKzS13"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 38572,
+        "title": "Assassins Pride",
+        "bestReleases": [
+            {
+                "name": "JPBDRemux + Yukisubs"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[Yukisubs]",
+                "description": "WEB 1080p",
+                "downloadLinks": [
+                    "https://mygavilan-my.sharepoint.com/:f:/g/personal/yuki_fansub_my_gavilan_edu/EgUCQRuutT9Anve80P4QF9UBGT0ghZ9H_ak_WUlneQXyaA?e=7a5lAi"
+                ]
+            }
+        ]
+    },
+    {
         "malId": 49780,
         "title": "Atasha Kawashiri Kodama da yo",
         "bestAlternatives": [
@@ -611,6 +647,19 @@
         ]
     },
     {
+        "malId": 35677,
+        "title": "Liz to Aoi Tori",
+        "bestAlternatives": [
+            {
+                "name": "[Yukisubs]",
+                "description": "WEB 1080p",
+                "downloadLinks": [
+                    "https://unpakacid-my.sharepoint.com/:v:/g/personal/ismirantinur67147_unpak_ac_id/EZmZoC4nOQZCtHhoMY-w6awBDjoY-Wr2tMOihl4rkNP9Jw?e=YV67ZF"
+                ]
+            }
+        ]
+    },
+    {
         "malId": 38959,
         "title": "Lord El-Melloi II-sei no Jikenbo: Rail Zeppelin Grace Note",
         "bestAlternatives": [
@@ -1143,6 +1192,42 @@
                 "description": "WEB 1080p",
                 "downloadLinks": [
                     "https://drive.google.com/drive/folders/1GgzNzuNUr5wwXiE9iP9qi1NhDpxSGuum?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 37779,
+        "title": "Yakusoku no Neverland",
+        "bestReleases": [
+            {
+                "name": "ITABD + Yukisubs"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[Yukisubs]",
+                "description": "WEB 1080p",
+                "downloadLinks": [
+                    "https://unpakacid-my.sharepoint.com/:f:/g/personal/ismirantinur67147_unpak_ac_id/EkiI6l0yWjJBtpYsajznjssBU6s-JeIgOMlyeoCGR2W6gA?e=359v8E"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 39710,
+        "title": "Yesterday wo Utatte",
+        "bestReleases": [
+            {
+                "name": "Kawaiika-Raws + Yukisubs"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[Yukisubs]",
+                "description": "WEB 1080p",
+                "downloadLinks": [
+                    "https://mygavilan-my.sharepoint.com/:f:/g/personal/yuki_fansub_my_gavilan_edu/EmAmN8iLoZlDgp5Wl5qZbrsBTYcke1P6vsxRIfD-lqKZog?e=btlEGn"
                 ]
             }
         ]
