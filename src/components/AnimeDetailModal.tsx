@@ -19,6 +19,59 @@ export const AnimeDetailModal: React.FC<AnimeDetailModalProps> = ({ isOpen, onCl
     const modalContent = useMemo(() => {
         if (!selectedRelease || !animeData) return null;
 
+        const tabs = (
+            <Tabs
+                aria-label="Release information"
+                color="primary"
+                variant="bordered"
+                className="w-full"
+                classNames={{
+                    tabList: "gap-2 w-full flex-wrap justify-start overflow-x-auto",
+                    tab: "max-w-fit px-2 h-8",
+                    panel: "pt-2"
+                }}
+            >
+                {selectedRelease.bestReleases && (
+                    <Tab key="releases" title="Best Releases">
+                        <ReleaseSection title="Best Releases" releases={selectedRelease.bestReleases} />
+                    </Tab>
+                )}
+                {selectedRelease.bestAlternatives && (
+                    <Tab key="alternatives" title="Alternatives">
+                        <ReleaseSection title="Best Alternatives" releases={selectedRelease.bestAlternatives} />
+                    </Tab>
+                )}
+                {selectedRelease.notes && (
+                    <Tab key="notes" title="Notes">
+                        <div className="p-2">
+                            <TextFormatter text={selectedRelease.notes} />
+                        </div>
+                    </Tab>
+                )}
+                {selectedRelease.qualityComparisons && (
+                    <Tab key="comp" title="Comparisons">
+                        <div className="p-2 space-y-2">
+                            <TextFormatter text={selectedRelease.qualityComparisons} />
+                        </div>
+                    </Tab>
+                )}
+                {selectedRelease.missingReleases && (
+                    <Tab key="missing" title="Missing">
+                        <div className="p-2">
+                            <TextFormatter text={selectedRelease.missingReleases} />
+                        </div>
+                    </Tab>
+                )}
+                {selectedRelease.downloadLinks && (
+                    <Tab key="downloads" title="Downloads">
+                        <div className="p-2">
+                            <ReleaseLinks links={selectedRelease.downloadLinks} />
+                        </div>
+                    </Tab>
+                )}
+            </Tabs>
+        );
+
         return (
             <>
                 <ModalHeader className="text-lg sm:text-xl break-words">
@@ -28,6 +81,7 @@ export const AnimeDetailModal: React.FC<AnimeDetailModalProps> = ({ isOpen, onCl
                 </ModalHeader>
                 <ModalBody>
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                        <div className="block md:hidden">{tabs}</div>
                         <Card className="w-full max-w-sm mx-auto">
                             <CardBody>
                                 <div className="relative w-full aspect-[2/3] max-h-[50vh] md:max-h-none">
@@ -42,61 +96,7 @@ export const AnimeDetailModal: React.FC<AnimeDetailModalProps> = ({ isOpen, onCl
                                 </div>
                             </CardBody>
                         </Card>
-                        <div className="space-y-4">
-                            <Tabs
-                                aria-label="Release information"
-                                color="primary"
-                                variant="bordered"
-                                className="w-full"
-                                classNames={{
-                                    tabList: "gap-2 w-full flex-wrap justify-start overflow-x-auto",
-                                    tab: "max-w-fit px-2 h-8",
-                                    panel: "pt-2"
-                                }}
-                            >
-                                {selectedRelease.bestReleases && (
-                                    <Tab key="releases" title="Best Releases">
-                                        <ReleaseSection title="Best Releases" releases={selectedRelease.bestReleases} />
-                                    </Tab>
-                                )}
-                                {selectedRelease.bestAlternatives && (
-                                    <Tab key="alternatives" title="Alternatives">
-                                        <ReleaseSection
-                                            title="Best Alternatives"
-                                            releases={selectedRelease.bestAlternatives}
-                                        />
-                                    </Tab>
-                                )}
-                                {selectedRelease.notes && (
-                                    <Tab key="notes" title="Notes">
-                                        <div className="p-2">
-                                            <TextFormatter text={selectedRelease.notes} />
-                                        </div>
-                                    </Tab>
-                                )}
-                                {selectedRelease.qualityComparisons && (
-                                    <Tab key="comp" title="Comparisons">
-                                        <div className="p-2 space-y-2">
-                                            <TextFormatter text={selectedRelease.qualityComparisons} />
-                                        </div>
-                                    </Tab>
-                                )}
-                                {selectedRelease.missingReleases && (
-                                    <Tab key="missing" title="Missing">
-                                        <div className="p-2">
-                                            <TextFormatter text={selectedRelease.missingReleases} />
-                                        </div>
-                                    </Tab>
-                                )}
-                                {selectedRelease.downloadLinks && (
-                                    <Tab key="downloads" title="Downloads">
-                                        <div className="p-2">
-                                            <ReleaseLinks links={selectedRelease.downloadLinks} />
-                                        </div>
-                                    </Tab>
-                                )}
-                            </Tabs>
-                        </div>
+                        <div className="hidden md:block">{tabs}</div>
                     </div>
                 </ModalBody>
             </>
