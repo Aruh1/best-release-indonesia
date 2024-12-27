@@ -239,6 +239,24 @@
         ]
     },
     {
+        "malId": 38084,
+        "title": "Fate/Grand Order: Zettai Majuu Sensen Babylonia",
+        "bestReleases": [
+            {
+                "name": "μtw-Kaleido + Yukisubs"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[Yukisubs]",
+                "description": "WEB 1080p",
+                "downloadLinks": [
+                    "https://mygavilan-my.sharepoint.com/:f:/g/personal/yuki_fansub_my_gavilan_edu/Esb5hrBLRKlHivgWkqyTJF4B5oPAzLOR3KJrwD_i2S_tZg?e=CCuzvv"
+                ]
+            }
+        ]
+    },
+    {
         "malId": 39545,
         "title": "Fragtime",
         "bestReleases": [
@@ -1040,6 +1058,24 @@
             }
         ],
         "notes": "Legion ITABD Encode + Oploverz"
+    },
+    {
+        "malId": 21647,
+        "title": "Tamako Love Story",
+        "bestReleases": [
+            {
+                "name": "Okay-subs + Yukisubs"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[Yukisubs]",
+                "description": "BD 1080p",
+                "downloadLinks": [
+                    "https://unpakacid-my.sharepoint.com/:v:/g/personal/ismirantinur67147_unpak_ac_id/EfoUX1102KJPkipY-0Ksj_wBFD9bi_lvUjQu5k-4tfsBSQ?e=yJj0f4"
+                ]
+            }
+        ]
     },
     {
         "malId": 35790,
