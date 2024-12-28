@@ -32,6 +32,17 @@
         "notes": "Takarir:\n Aizukara-Melody"
     },
     {
+        "malId": 36864,
+        "title": "Akkun to Kanojo",
+        "bestAlternatives": [
+            {
+                "name": "[Animegokil]",
+                "description": "Batch Part BD 720p",
+                "downloadLinks": ["https://drive.google.com/open?id=1kbbWlaWnRdhNLx-HcpU4L2wV-lrsfPkP"]
+            }
+        ]
+    },
+    {
         "malId": 38753,
         "title": "Araburu Kisetsu no Otome-domo yo.",
         "bestReleases": [
@@ -119,6 +130,38 @@
         "notes": "Video :\nBeatrice-Raws\nTakarir :\n- Manga Neko (D-AnimeSub) [Default]\n - Kuroyuri (Kusonime)"
     },
     {
+        "malId": 35712,
+        "title": "Boku no Kanojo ga Majimesugiru Sho-bitch na Ken",
+        "bestAlternatives": [
+            {
+                "name": "[Neosubs]",
+                "description": "BD 720p",
+                "downloadLinks": ["https://terabox.link/s/1q5oOgkDZknxX-P3dFlYB_Q"]
+            },
+            {
+                "name": "[Animegokil]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/open?id=1iFoYyeB3ekGByii1tqWyC06LI2u-7eUY",
+                    "https://drive.google.com/open?id=12XHKiN5cFksCgtfBRqIiNnluVVaq8Wco"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 38302,
+        "title": "Boku no Tonari ni Ankoku Hakaishin ga Imasu.",
+        "bestAlternatives": [
+            {
+                "name": "[Animegokil]",
+                "description": "WEB 1080p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/12hOdUrxASOkp9GoVCMn8JeJlTjuoYz3i?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
         "malId": 38186,
         "title": "Bokutachi wa Benkyou ga Dekinai",
         "bestAlternatives": [
@@ -140,6 +183,25 @@
             }
         ],
         "notes": "Video:\n sam \n Takarir: \n Nge-Sub (Edited)"
+    },
+    {
+        "malId": 28999,
+        "title": "Charlotte",
+        "bestReleases": [
+            {
+                "name": "smol + [AmpasWorks] = Shirosubs, [Y.U. Works] = Yukisubs, [PHP Works] = Lokalsubs"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[PHP Works]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1zVVcJVucVkNVh1yko-K3n1TcecEy6jE1?usp=sharing"
+                ]
+            }
+        ],
+        "notes": "Takarir: \n PHP Works (Lokalsubs)"
     },
     {
         "malId": 34382,
@@ -1011,6 +1073,13 @@
                 "name": "[HaruSekai]",
                 "description": "BD 1080p",
                 "downloadLinks": ["https://files.h4ru.my.id/1:/Sounan%20Desu%20ka%20[BD]/1080p/"]
+            },
+            {
+                "name": "[Animegokil]",
+                "description": "BD 1080p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1gnfRskNijCiyM7Zcmqv_h1_1OIJ4anRL?usp=sharing"
+                ]
             }
         ]
     },
@@ -1170,6 +1239,18 @@
                 ]
             }
         ]
+    },
+    {
+        "malId": 35249,
+        "title": "Uma Musume: Pretty Derby",
+        "bestAlternatives": [
+            {
+                "name": "[Neosubs]",
+                "description": "BD 720p",
+                "downloadLinks": ["https://terabox.link/s/1WuM02nxKzNpw7MssGgiH7w"]
+            }
+        ],
+        "notes": "Takarir: \n Neosubs (Pucuk)"
     },
     {
         "malId": 33589,
