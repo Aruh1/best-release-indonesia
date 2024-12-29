@@ -1,7 +1,7 @@
 "use client";
 
-import React, { useMemo } from "react";
-import { Modal, ModalContent, ModalHeader, ModalBody, Card, CardBody, Tabs, Tab, Link } from "@nextui-org/react";
+import React, { useMemo, useEffect, useState } from "react";
+import { Modal, ModalContent, ModalHeader, ModalBody, Card, CardBody, Link } from "@nextui-org/react";
 import Image from "next/image";
 import { AnimeRelease, AnimeData } from "../types";
 import { ReleaseSection } from "./ReleaseSection";
@@ -16,60 +16,69 @@ interface AnimeDetailModalProps {
 }
 
 export const AnimeDetailModal: React.FC<AnimeDetailModalProps> = ({ isOpen, onClose, selectedRelease, animeData }) => {
+    const [isMobile, setIsMobile] = useState(false);
+
+    useEffect(() => {
+        const checkIfMobile = () => {
+            setIsMobile(window.innerWidth < 768);
+        };
+
+        checkIfMobile();
+        window.addEventListener("resize", checkIfMobile);
+
+        return () => window.removeEventListener("resize", checkIfMobile);
+    }, []);
+
     const modalContent = useMemo(() => {
         if (!selectedRelease || !animeData) return null;
 
-        const tabs = (
-            <Tabs
-                aria-label="Release information"
-                color="primary"
-                variant="bordered"
-                className="w-full"
-                classNames={{
-                    tabList: "gap-2 w-full flex-wrap justify-start overflow-x-auto",
-                    tab: "max-w-fit px-2 h-8",
-                    panel: "pt-2"
-                }}
-            >
+        const content = (
+            <div className="space-y-4">
                 {selectedRelease.bestReleases && (
-                    <Tab key="releases" title="Best Releases">
+                    <div>
+                        <h3 className="text-lg font-semibold mb-2">Best Releases</h3>
                         <ReleaseSection title="Best Releases" releases={selectedRelease.bestReleases} />
-                    </Tab>
+                    </div>
                 )}
                 {selectedRelease.bestAlternatives && (
-                    <Tab key="alternatives" title="Alternatives">
+                    <div>
+                        <h3 className="text-lg font-semibold mb-2">Alternatives</h3>
                         <ReleaseSection title="Best Alternatives" releases={selectedRelease.bestAlternatives} />
-                    </Tab>
+                    </div>
                 )}
                 {selectedRelease.notes && (
-                    <Tab key="notes" title="Notes">
+                    <div>
+                        <h3 className="text-lg font-semibold mb-2">Notes</h3>
                         <div className="p-2">
                             <TextFormatter text={selectedRelease.notes} />
                         </div>
-                    </Tab>
+                    </div>
                 )}
                 {selectedRelease.qualityComparisons && (
-                    <Tab key="comp" title="Comparisons">
+                    <div>
+                        <h3 className="text-lg font-semibold mb-2">Comparisons</h3>
                         <div className="p-2 space-y-2">
                             <TextFormatter text={selectedRelease.qualityComparisons} />
                         </div>
-                    </Tab>
+                    </div>
                 )}
                 {selectedRelease.missingReleases && (
-                    <Tab key="missing" title="Missing">
+                    <div>
+                        <h3 className="text-lg font-semibold mb-2">Missing</h3>
                         <div className="p-2">
                             <TextFormatter text={selectedRelease.missingReleases} />
                         </div>
-                    </Tab>
+                    </div>
                 )}
                 {selectedRelease.downloadLinks && (
-                    <Tab key="downloads" title="Downloads">
+                    <div>
+                        <h3 className="text-lg font-semibold mb-2">Downloads</h3>
                         <div className="p-2">
                             <ReleaseLinks links={selectedRelease.downloadLinks} />
                         </div>
-                    </Tab>
+                    </div>
                 )}
-            </Tabs>
+            </div>
         );
 
         return (
@@ -80,32 +89,33 @@ export const AnimeDetailModal: React.FC<AnimeDetailModalProps> = ({ isOpen, onCl
                     </Link>
                 </ModalHeader>
                 <ModalBody>
-                    <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                        <div className="block md:hidden">{tabs}</div>
-                        <Card className="w-full max-w-sm mx-auto">
-                            <CardBody>
-                                <div className="relative w-full aspect-[2/3] max-h-[50vh] md:max-h-none">
-                                    <Image
-                                        src={animeData.images.jpg.large_image_url}
-                                        alt={animeData.title}
-                                        fill
-                                        className="object-cover rounded-lg"
-                                        sizes="(max-width: 768px) 100vw, 50vw"
-                                        priority
-                                    />
-                                </div>
-                            </CardBody>
-                        </Card>
-                        <div className="hidden md:block">{tabs}</div>
+                    <div className="flex flex-col md:grid md:grid-cols-2 gap-4">
+                        {!isMobile && (
+                            <Card className="w-full max-w-sm mx-auto hidden md:block order-1 md:order-none">
+                                <CardBody>
+                                    <div className="relative w-full aspect-[2/3] max-h-[50vh] md:max-h-none">
+                                        <Image
+                                            src={animeData.images.jpg.large_image_url}
+                                            alt={animeData.title}
+                                            fill
+                                            className="object-cover rounded-lg"
+                                            sizes="(max-width: 768px) 100vw, 50vw"
+                                            priority
+                                        />
+                                    </div>
+                                </CardBody>
+                            </Card>
+                        )}
+                        <div className="overflow-y-auto max-h-[60vh] order-2 md:order-none">{content}</div>
                     </div>
                 </ModalBody>
             </>
         );
-    }, [selectedRelease, animeData]);
+    }, [selectedRelease, animeData, isMobile]);
 
     return (
-        <Modal isOpen={isOpen} onClose={onClose} size="2xl" scrollBehavior="inside" className="sm:mx-4">
-            <ModalContent className="h-[90vh] sm:h-auto">{modalContent}</ModalContent>
+        <Modal isOpen={isOpen} onClose={onClose} size="2xl" className="sm:mx-4">
+            <ModalContent>{modalContent}</ModalContent>
         </Modal>
     );
 };
