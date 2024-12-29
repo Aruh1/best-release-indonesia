@@ -114,7 +114,7 @@ export const AnimeDetailModal: React.FC<AnimeDetailModalProps> = ({ isOpen, onCl
     }, [selectedRelease, animeData, isMobile]);
 
     return (
-        <Modal isOpen={isOpen} onClose={onClose} size="2xl" className="sm:mx-4">
+        <Modal isOpen={isOpen} onClose={onClose} size="2xl" className="sm:mx-4" placement="center">
             <ModalContent>{modalContent}</ModalContent>
         </Modal>
     );
