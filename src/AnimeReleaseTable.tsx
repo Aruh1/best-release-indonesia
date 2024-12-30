@@ -72,6 +72,7 @@ const AnimeReleaseTable: React.FC = () => {
                                             href={`/anime/${release.malId}`}
                                             className="text-foreground hover:opacity-80"
                                             color="foreground"
+                                            onClick={() => router.push(`/anime/${release.malId}`)}
                                         >
                                             {animeData?.title || release.title}
                                         </Link>
@@ -81,6 +82,7 @@ const AnimeReleaseTable: React.FC = () => {
                                             href={`/anime/${release.malId}`}
                                             className="text-foreground hover:opacity-80"
                                             color="foreground"
+                                            onClick={() => router.push(`/anime/${release.malId}`)}
                                         >
                                             {animeData?.title_english || "N/A"}
                                         </Link>
