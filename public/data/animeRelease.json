@@ -482,22 +482,6 @@
         "notes": "Hanasaku Iroha - Home Sweet Home\nVideo :\nYousei-raws\nTakarir :\n- Wire-subs\n- Jal x AIA\n- Zensub"
     },
     {
-        "malId": 30895,
-        "title": "HaruChika: Haruta to Chika wa Seishun suru",
-        "bestReleases": [
-            {
-                "name": "Beatrice-Raws + NRSubs"
-            }
-        ],
-        "bestAlternatives": [
-            {
-                "name": "[NRSubs]",
-                "description": "WEB 720p",
-                "downloadLinks": ["https://terabox.com/s/1pCfOyKxuFJcZT2Q3wHbXhQ"]
-            }
-        ]
-    },
-    {
         "malId": 27989,
         "title": "Hibike! Euphonium",
         "bestReleases": [
@@ -638,7 +622,7 @@
         "bestAlternatives": [
             {
                 "name": "[Caramel]",
-                "description": "WEB 720p",
+                "description": "BD 720p (Butuh di-rename)",
                 "downloadLinks": ["https://terabox.com/s/12nw5BwhtaFoO-V1HKjADzg"]
             }
         ]
@@ -1086,17 +1070,6 @@
         "notes": "Video:\n VCB-Studio \n Skrip:\n AnimeSubIND"
     },
     {
-        "malId": 32438,
-        "title": "Mayoiga",
-        "bestAlternatives": [
-            {
-                "name": "[NRSubs]",
-                "description": "WEB 720p",
-                "downloadLinks": ["https://terabox.com/s/1m4NtPVeK3cbJd_UkBe0mnQ"]
-            }
-        ]
-    },
-    {
         "malId": 41812,
         "title": "Megami-ryou no Ryoubo-kun.",
         "bestReleases": [
@@ -1244,17 +1217,6 @@
         "notes": "Video:\n Yousei-raws \n Takarir:\n Moesubs"
     },
     {
-        "malId": 26243,
-        "title": "Owari no Seraph",
-        "bestAlternatives": [
-            {
-                "name": "S2: [NRSubs]",
-                "description": "WEB 720p",
-                "downloadLinks": ["https://terabox.com/s/1UWJ99gMduV248tOb8ZjCwQ"]
-            }
-        ]
-    },
-    {
         "malId": 28617,
         "title": "Punch Line",
         "bestAlternatives": [
@@ -1325,22 +1287,6 @@
         "notes": "Video:\n smol \n Takarir:\n Tiramisubs [NeoSubs]"
     },
     {
-        "malId": 30187,
-        "title": "Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru",
-        "bestReleases": [
-            {
-                "name": "Beatrice-Raws + NRSubs"
-            }
-        ],
-        "bestAlternatives": [
-            {
-                "name": "[NRSubs]",
-                "description": "WEB 720p",
-                "downloadLinks": ["https://terabox.com/s/1YXMuy_yPR73dweQw7GAuGg"]
-            }
-        ]
-    },
-    {
         "malId": 40403,
         "title": "Shin Sakura Taisen",
         "bestAlternatives": [
@@ -1357,13 +1303,13 @@
         "title": "Shoujo Shuumatsu Ryokou",
         "bestReleases": [
             {
-                "name": "GermanBD + Nutrisari"
+                "name": "GermanBDRemux + Nutrisari"
             }
         ],
         "bestAlternatives": [
             {
                 "name": "[Nutrisari]",
-                "description": "Caramel BD 720p",
+                "description": "Caramel WEB 720p",
                 "downloadLinks": ["https://terabox.com/s/1INq73e7kXVYuiKaH1uC9rQ"]
             },
             {
