@@ -32,6 +32,22 @@
         "notes": "Takarir:\n Aizukara-Melody"
     },
     {
+        "malId": 34881,
+        "title": "Aho Girl",
+        "bestReleases": [
+            {
+                "name": "JPBD + Caramel"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[Caramel]",
+                "description": "WEB mix",
+                "downloadLinks": ["https://terabox.com/s/1kKduEMfrSsMupn3HEhGSVw"]
+            }
+        ]
+    },
+    {
         "malId": 36864,
         "title": "Akkun to Kanojo",
         "bestAlternatives": [
@@ -39,6 +55,33 @@
                 "name": "[Animegokil]",
                 "description": "Batch Part BD 720p",
                 "downloadLinks": ["https://drive.google.com/open?id=1kbbWlaWnRdhNLx-HcpU4L2wV-lrsfPkP"]
+            }
+        ]
+    },
+    {
+        "malId": 36001,
+        "title": "Alice or Alice",
+        "bestAlternatives": [
+            {
+                "name": "[M-C]",
+                "description": "WEB 720p",
+                "downloadLinks": ["https://terabox.com/s/1STSM26xmcTCEKbKGQaiJEw"]
+            }
+        ]
+    },
+    {
+        "malId": 34350,
+        "title": "Alice to Zouroku",
+        "bestReleases": [
+            {
+                "name": "GJM + Caramel"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[Caramel]",
+                "description": "WEB 720p",
+                "downloadLinks": ["https://terabox.com/s/1_B8RH0uumJFQwyDGlYdB5w"]
             }
         ]
     },
@@ -267,9 +310,10 @@
         "bestAlternatives": [
             {
                 "name": "[Nutrisari]",
-                "description": "Caramel WEB 1080p",
+                "description": "Caramel WEB 720p",
                 "downloadLinks": [
-                    "https://drive.google.com/drive/folders/0B2F1JfIOuTgNSVJlSFZWRnJRb0U?resourcekey=0-KZF_PRqp1yu0REz90lNXnw&usp=sharing"
+                    "https://drive.google.com/drive/folders/0B2F1JfIOuTgNSVJlSFZWRnJRb0U?resourcekey=0-KZF_PRqp1yu0REz90lNXnw&usp=sharing",
+                    "https://terabox.com/s/1G_-CMm5HIENjcUSTfvzN3Q"
                 ]
             }
         ]
@@ -299,6 +343,39 @@
                 ]
             }
         ]
+    },
+    {
+        "malId": 32901,
+        "title": "Eromanga-sensei",
+        "bestReleases": [
+            {
+                "name": "Beatrice-Raws + Caramel"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[Caramel]",
+                "description": "WEB 720p",
+                "downloadLinks": ["https://terabox.com/s/1jKW7OLB_HR2eImN811cTRQ"]
+            }
+        ]
+    },
+    {
+        "malId": 33047,
+        "title": "Fate/Extra: Last Encore",
+        "bestReleases": [
+            {
+                "name": "JPBD + [Monogatari]"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[Monogatari]",
+                "description": "WEB 720p",
+                "downloadLinks": ["https://terabox.com/s/1YMZwuHuctT-9E9TWYVw8BQ"]
+            }
+        ],
+        "notes": "Takarir:\n IASubs-Caramel"
     },
     {
         "malId": 38084,
@@ -405,6 +482,22 @@
         "notes": "Hanasaku Iroha - Home Sweet Home\nVideo :\nYousei-raws\nTakarir :\n- Wire-subs\n- Jal x AIA\n- Zensub"
     },
     {
+        "malId": 30895,
+        "title": "HaruChika: Haruta to Chika wa Seishun suru",
+        "bestReleases": [
+            {
+                "name": "Beatrice-Raws + NRSubs"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[NRSubs]",
+                "description": "WEB 720p",
+                "downloadLinks": ["https://terabox.com/s/1pCfOyKxuFJcZT2Q3wHbXhQ"]
+            }
+        ]
+    },
+    {
         "malId": 27989,
         "title": "Hibike! Euphonium",
         "bestReleases": [
@@ -449,7 +542,8 @@
                 "name": "[Caramel]",
                 "description": "BD 720p",
                 "downloadLinks": [
-                    "https://drive.google.com/drive/folders/1rS9IdHtfQ7Yu_1HhhaaVu-gfqft8Z0VA?usp=sharing"
+                    "https://drive.google.com/drive/folders/1rS9IdHtfQ7Yu_1HhhaaVu-gfqft8Z0VA?usp=sharing",
+                    "https://terabox.com/s/1I8XSb3HhmdAgvL532xokVg"
                 ]
             }
         ]
@@ -511,6 +605,45 @@
         ]
     },
     {
+        "malId": 35413,
+        "title": "Imouto sae Ireba Ii.",
+        "bestAlternatives": [
+            {
+                "name": "[Caramel]",
+                "description": "WEB 720p",
+                "downloadLinks": ["https://terabox.com/s/1ufGdhsDX9JPPFc8mlu5G-Q"]
+            }
+        ]
+    },
+    {
+        "malId": 37744,
+        "title": "Isekai Cheat Magician",
+        "bestAlternatives": [
+            {
+                "name": "[CaraGin]",
+                "description": "WEB 720p",
+                "downloadLinks": ["https://terabox.com/s/1mI72emQMui_v3x0SabpYbQ"]
+            }
+        ],
+        "notes": "Takarir:\n Caramel-Ginsub"
+    },
+    {
+        "malId": 36220,
+        "title": "Itsudatte Bokura no Koi wa 10 cm Datta.",
+        "bestReleases": [
+            {
+                "name": "Beatrice-Raws + Caramel"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[Caramel]",
+                "description": "WEB 720p",
+                "downloadLinks": ["https://terabox.com/s/12nw5BwhtaFoO-V1HKjADzg"]
+            }
+        ]
+    },
+    {
         "malId": 38619,
         "title": "Joshikousei no Mudazukai",
         "bestAlternatives": [
@@ -522,6 +655,23 @@
                 ]
             }
         ]
+    },
+    {
+        "malId": 5680,
+        "title": "K-On!",
+        "bestReleases": [
+            {
+                "name": "MTBB + KyoAni"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[KyoAni]",
+                "description": "BD 720p",
+                "downloadLinks": ["https://terabox.com/s/1yMAncO8nDbhmsQ4KAdvHJA"]
+            }
+        ],
+        "notes": "Takarir:\n KyoAni (Caramel-MangaNeko-NeoSubs-Zensub)"
     },
     {
         "malId": 10568,
@@ -577,6 +727,17 @@
                 "name": "[Manga Neko]",
                 "description": "Batch BD 1080p",
                 "downloadLinks": ["https://drive.google.com/file/d/1cxS296By-rhgUvmSRW4I8So2DXpwJomg/view"]
+            }
+        ]
+    },
+    {
+        "malId": 33034,
+        "title": "Kiniro Mosaic: Pretty Days",
+        "bestAlternatives": [
+            {
+                "name": "[Haru❤Bitter]",
+                "description": "BD 720p",
+                "downloadLinks": ["https://terabox.com/s/1LlQjVn-KXPG9QEKgqaNbrw"]
             }
         ]
     },
@@ -718,13 +879,19 @@
         "title": "Lapis Re:LiGHTs",
         "bestAlternatives": [
             {
+                "name": "[Haruka]",
+                "description": "WEB 720p",
+                "downloadLinks": ["https://terabox.com/s/1nQlU9eFeXFQdoCpFcjyaeA"]
+            },
+            {
                 "name": "[AMel]",
                 "description": "Aizukara - Melody Batch WEB 1080p",
                 "downloadLinks": [
                     "https://unpakacid-my.sharepoint.com/:u:/g/personal/craftjosie4095_unpak_ac_id/EZTE5Q8sOItOrthxs83BEeEBmQn4yKwghQSVySw_BGq55g?e=1t1hpZ&download=1"
                 ]
             }
-        ]
+        ],
+        "notes": "Takarir:\n Haruka (Haruzora-Caramel)"
     },
     {
         "malId": 35677,
@@ -736,6 +903,10 @@
                 "downloadLinks": [
                     "https://unpakacid-my.sharepoint.com/:v:/g/personal/ismirantinur67147_unpak_ac_id/EZmZoC4nOQZCtHhoMY-w6awBDjoY-Wr2tMOihl4rkNP9Jw?e=YV67ZF"
                 ]
+            },
+            {
+                "name": "[Caramel]",
+                "downloadLinks": ["https://terabox.com/s/1DpHHv2WS9fBriBQZlUtbeQ"]
             }
         ]
     },
@@ -749,6 +920,28 @@
                 "downloadLinks": [
                     "https://mygavilan-my.sharepoint.com/:f:/g/personal/yuki_fansub_my_gavilan_edu/EtnT5OmZ0vVGuzokA3ZbN08BYs28PYYvDGKDSbXmegSwVg?e=uxiPMY"
                 ]
+            }
+        ]
+    },
+    {
+        "malId": 33197,
+        "title": "Lostorage Incited WIXOSS",
+        "bestAlternatives": [
+            {
+                "name": "[Attakai-SnS]",
+                "description": "WEB 720p",
+                "downloadLinks": ["https://terabox.com/s/1hYAi5Dv-c1rd84_aHH1o9A"]
+            }
+        ]
+    },
+    {
+        "malId": 32526,
+        "title": "Love Live! Sunshine!!",
+        "bestAlternatives": [
+            {
+                "name": "[Hinose-Attakai Fansub]",
+                "description": "WEB 720p",
+                "downloadLinks": ["https://terabox.com/s/1xxCOmVtl3jHCLCh3P3noRg"]
             }
         ]
     },
@@ -782,6 +975,23 @@
         "notes": "Video :\nKawaiika-Raws\nTakarir :\n- DuraMel (Durandal Melody)\n- Iroha (Caramel Edit Akatetsu) [Default]"
     },
     {
+        "malId": 33003,
+        "title": "Mahou Shoujo Ikusei Keikaku",
+        "bestReleases": [
+            {
+                "name": "JPBD / GJM + Caramel"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[SEA]",
+                "description": "WEB 720p",
+                "downloadLinks": ["https://terabox.com/s/1XsBKqP2xcTcpxBELOQm_nQ"]
+            }
+        ],
+        "notes": "Takarir:\n SoraIro-EaterTeam-Caramel"
+    },
+    {
         "malId": 9756,
         "title": "Mahou Shoujo Madoka☆Magica",
         "bestReleases": [
@@ -807,6 +1017,22 @@
         ],
         "notes": "Takarir :\n- AnimeSubIND-Se~No!\n- NeoSubs\nMovie 1~3 (Trilogy)\nTakarir :\n- Tiramisu",
         "qualityComparisons": "https://slow.pics/c/zecFOCyh"
+    },
+    {
+        "malId": 32900,
+        "title": "Mahouka Koukou no Rettousei Movie: Hoshi wo Yobu Shoujo",
+        "bestReleases": [
+            {
+                "name": "sam + Caramel"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[Caramel]",
+                "description": "BD 1080p",
+                "downloadLinks": ["https://terabox.com/s/1qM1o8-3TugKDhaG35qhIrA"]
+            }
+        ]
     },
     {
         "malId": 48375,
@@ -860,6 +1086,17 @@
         "notes": "Video:\n VCB-Studio \n Skrip:\n AnimeSubIND"
     },
     {
+        "malId": 32438,
+        "title": "Mayoiga",
+        "bestAlternatives": [
+            {
+                "name": "[NRSubs]",
+                "description": "WEB 720p",
+                "downloadLinks": ["https://terabox.com/s/1m4NtPVeK3cbJd_UkBe0mnQ"]
+            }
+        ]
+    },
+    {
         "malId": 41812,
         "title": "Megami-ryou no Ryoubo-kun.",
         "bestReleases": [
@@ -883,6 +1120,40 @@
                 "name": "[Colors]",
                 "description": "WEB 720p Tiramisubs & Sora Iro",
                 "downloadLinks": ["https://mega.nz/#F!UgpHlB7Z!t4UbLO9hOSaSsEI69QMRzQ"]
+            }
+        ]
+    },
+    {
+        "malId": 10671,
+        "title": "Morita-san wa Mukuchi.",
+        "bestAlternatives": [
+            {
+                "name": "[GO-CAR]",
+                "description": "BD 720p",
+                "downloadLinks": ["https://terabox.com/s/1tXnOI0InMxQPtlVdJdinOg"]
+            }
+        ]
+    },
+    {
+        "malId": 40738,
+        "title": "Natsunagu!",
+        "bestAlternatives": [
+            {
+                "name": "[HC]",
+                "description": "WEB 720p",
+                "downloadLinks": ["https://terabox.com/s/178gRt7XEQX7blh--5J8qmA"]
+            }
+        ],
+        "notes": "Takarir:\n HC (Haruzora-Caramel)"
+    },
+    {
+        "malId": 31414,
+        "title": "Nijiiro Days",
+        "bestAlternatives": [
+            {
+                "name": "[Indis]",
+                "description": "WEB 720p",
+                "downloadLinks": ["https://terabox.com/s/1GHxylQBeZc94hFrjL5KMYA"]
             }
         ]
     },
@@ -916,6 +1187,13 @@
                 "downloadLinks": [
                     "https://www.pololer.web.id/0:/[pololer]%20Non%20Non%20Biyori%20Nonstop%20(BDRip%201920x1080%20HEVC%20FLAC)/"
                 ]
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "Movie: [Caramel]",
+                "description": "BD 720p",
+                "downloadLinks": ["https://terabox.com/s/1wuEYl6y8FTR1cQhCkMjSBg"]
             }
         ],
         "notes": "Video :\nKawaiika-Raws"
@@ -964,6 +1242,17 @@
             }
         ],
         "notes": "Video:\n Yousei-raws \n Takarir:\n Moesubs"
+    },
+    {
+        "malId": 26243,
+        "title": "Owari no Seraph",
+        "bestAlternatives": [
+            {
+                "name": "S2: [NRSubs]",
+                "description": "WEB 720p",
+                "downloadLinks": ["https://terabox.com/s/1UWJ99gMduV248tOb8ZjCwQ"]
+            }
+        ]
     },
     {
         "malId": 28617,
@@ -1036,6 +1325,55 @@
         "notes": "Video:\n smol \n Takarir:\n Tiramisubs [NeoSubs]"
     },
     {
+        "malId": 30187,
+        "title": "Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru",
+        "bestReleases": [
+            {
+                "name": "Beatrice-Raws + NRSubs"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[NRSubs]",
+                "description": "WEB 720p",
+                "downloadLinks": ["https://terabox.com/s/1YXMuy_yPR73dweQw7GAuGg"]
+            }
+        ]
+    },
+    {
+        "malId": 40403,
+        "title": "Shin Sakura Taisen",
+        "bestAlternatives": [
+            {
+                "name": "[Caramel]",
+                "description": "WEB 720p",
+                "downloadLinks": ["https://terabox.com/s/1dOJo6LW6-NmjFbDtCrLMNQ"]
+            }
+        ],
+        "notes": "Takarir:\n HC (Haruzora-Caramel)"
+    },
+    {
+        "malId": 35838,
+        "title": "Shoujo Shuumatsu Ryokou",
+        "bestReleases": [
+            {
+                "name": "GermanBD + Nutrisari"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[Nutrisari]",
+                "description": "Caramel BD 720p",
+                "downloadLinks": ["https://terabox.com/s/1INq73e7kXVYuiKaH1uC9rQ"]
+            },
+            {
+                "name": "[Nutrisari]",
+                "description": "ONA 720p",
+                "downloadLinks": ["https://terabox.com/s/1WnAYK1bPFQwdYjBMsvjRCQ"]
+            }
+        ]
+    },
+    {
         "malId": 35503,
         "title": "Shoujo☆Kageki Revue Starlight",
         "bestReleases": [
@@ -1096,6 +1434,38 @@
             }
         ],
         "notes": "Video:\n 9volt \n Skrip:\n Bstation (edited)"
+    },
+    {
+        "malId": 33036,
+        "title": "Suki ni Naru Sono Shunkan wo. Kokuhaku Jikkou Iinkai",
+        "bestReleases": [
+            {
+                "name": "neko-raws + KKC"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[KKC]",
+                "description": "BD 720p",
+                "downloadLinks": ["https://terabox.com/s/1hdLmiHFGi2ICvU8kmo5A0A"]
+            }
+        ]
+    },
+    {
+        "malId": 31765,
+        "title": "Sword Art Online Movie: Ordinal Scale",
+        "bestReleases": [
+            {
+                "name": "sergey_krs + Caramel"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[Caramel]",
+                "description": "BD 1080p",
+                "downloadLinks": ["https://terabox.com/s/1pH4Csjw49KeP9JUUycjk_w"]
+            }
+        ]
     },
     {
         "malId": 50275,
@@ -1261,7 +1631,10 @@
             {
                 "name": "[Caramel]",
                 "description": "BD 720p",
-                "downloadLinks": ["https://drive.google.com/drive/folders/1JbdONjKE2nOpRKmEm1qj-w51OuZpkZcI"]
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1JbdONjKE2nOpRKmEm1qj-w51OuZpkZcI",
+                    "https://terabox.com/s/1tYoEGFyxT_s5zTHUo6vIHw"
+                ]
             }
         ]
     },
@@ -1418,6 +1791,14 @@
                 "downloadLinks": [
                     "https://www.pololer.web.id/0:/%5Bpololer%5D%20Yuuki%20Yuuna%20wa%20Yuusha%20de%20Aru%20Washio%20Sumi%20no%20Shou%20%28BDRip%201080p%20x264%20FLAC%29%20%5Bv2%5D/"
                 ]
+            },
+            {
+                "name": "[Kuroyuri - Caramel]",
+                "description": "720p",
+                "downloadLinks": [
+                    "https://terabox.com/s/1n0BvawW7jSjSJIFbCdAm3A",
+                    "https://terabox.com/s/1TWCXSWP11choTYT1fnNE2Q"
+                ]
             }
         ],
         "notes": "Video:\njsum@u2\nTakarir:\nTV ver. Sub: Kuroyuri - Caramel\n Movie ver. Sub 1: Kuroyuri - Caramel [Default]\n Movie ver. Sub 2: CenatCenut"
@@ -1428,12 +1809,20 @@
         "bestReleases": [
             {
                 "name": "[pololer]",
+                "description": "Beatrice-Raws",
                 "downloadLinks": [
                     "https://www.pololer.web.id/0:/%5Bpololer%5D%20Yuuki%20Yuuna%20wa%20Yuusha%20de%20Aru%20Washio%20Sumi%20no%20Shou%20%28BDRip%201080p%20x264%20FLAC%29%20%5Bv2%5D/"
                 ]
             }
         ],
-        "notes": "Video:\nBeatrice-Raws\nTakarir:\n Sub 1: Kuroyuri - Caramel [Default]\n Sub 2: CenatCenut"
+        "bestAlternatives": [
+            {
+                "name": "[Kuroyuri - Caramel]",
+                "description": "720p",
+                "downloadLinks": ["https://terabox.com/s/1TWCXSWP11choTYT1fnNE2Q"]
+            }
+        ],
+        "notes": "Takarir:\n Sub 1: Kuroyuri - Caramel [Default]\n Sub 2: CenatCenut"
     },
     {
         "malId": 37976,
@@ -1444,6 +1833,25 @@
                 "description": "Batch BD 1080p",
                 "downloadLinks": [
                     "https://unpakacid-my.sharepoint.com/:u:/g/personal/craftjosie4095_unpak_ac_id/EagmE6a-bslAvHDkmlKHgOwByqh9pJpuMrlxIg4E2U5R4w?e=z8AtDb&download=1"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 31245,
+        "title": "Zutto Mae kara Suki deshita.",
+        "bestReleases": [
+            {
+                "name": "Beatrice-Raws + KKC"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[KKC]",
+                "description": "Caramel BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/file/d/0B2F1JfIOuTgNenJuanFieW5IVTQ/view",
+                    "https://terabox.com/s/14uGiZfHkLU9TSpyNcPs9ow"
                 ]
             }
         ]
