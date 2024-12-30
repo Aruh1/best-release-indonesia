@@ -61,6 +61,9 @@ export interface AnimeData {
     opening_themes: string[];
     ending_themes: string[];
     trailer_url: string | null;
+    season: string | null;
+    year: number | null;
+    synopsis: string;
     images: {
         jpg: {
             large_image_url: string;

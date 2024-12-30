@@ -62,11 +62,16 @@ const AnimeReleaseTable: React.FC = () => {
                             const animeData = animeDataCache[release.malId];
 
                             return (
-                                <TableRow key={release.malId} className="cursor-pointer hover:bg-default-100">
+                                <TableRow
+                                    key={release.malId}
+                                    className="cursor-pointer hover:bg-default-100"
+                                    onClick={() => router.push(`/anime/${release.malId}`)}
+                                >
                                     <TableCell>
                                         <Link
                                             href={`/anime/${release.malId}`}
                                             className="text-foreground hover:opacity-80"
+                                            color="foreground"
                                         >
                                             {animeData?.title || release.title}
                                         </Link>
@@ -75,6 +80,7 @@ const AnimeReleaseTable: React.FC = () => {
                                         <Link
                                             href={`/anime/${release.malId}`}
                                             className="text-foreground hover:opacity-80"
+                                            color="foreground"
                                         >
                                             {animeData?.title_english || "N/A"}
                                         </Link>

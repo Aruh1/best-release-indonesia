@@ -9,6 +9,7 @@ import { ReleaseLinks } from "@/components/ReleaseLinks";
 import { TextFormatter } from "@/components/TextFormatter";
 import Header from "@/components/Header";
 import { useAnimeData } from "@/hooks/useAnimeData";
+import { Calendar, Tv } from "lucide-react";
 
 interface PageProps {
     params: Promise<{
@@ -115,7 +116,7 @@ export default function Page(props: PageProps) {
         <>
             <Header />
             <main className="container mx-auto p-4">
-                <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+                <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mobile-image-bottom">
                     <Card className="col-span-1" style={{ height: "fit-content" }}>
                         <CardBody>
                             <div className="relative aspect-[2/3]">
@@ -127,14 +128,36 @@ export default function Page(props: PageProps) {
                                     sizes="(max-width: 768px) 100vw, 50vw"
                                     priority
                                 />
+                                <div className="absolute bottom-0 left-0 right-0 bg-black bg-opacity-50 p-2 rounded-b-lg">
+                                    <div className="flex items-center justify-between text-white">
+                                        <div className="flex items-center gap-1">
+                                            <Calendar size={14} />
+                                            <span className="text-xs">
+                                                {animeData.season && animeData.year
+                                                    ? `${animeData.season} ${animeData.year || "Unknown"}`
+                                                    : "Unknown"}
+                                            </span>
+                                        </div>
+                                        <div className="flex items-center gap-1">
+                                            <span className="text-xs">{animeData.type || "Unknown"}</span>
+                                            <Tv size={14} />
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </CardBody>
                     </Card>
-
                     <div className="col-span-2 space-y-4">
                         <Card>
                             <CardBody>
-                                <Link href={animeData.url} isExternal target="_blank" color="foreground">
+                                <Link
+                                    href={animeData.url}
+                                    isExternal
+                                    target="_blank"
+                                    color="foreground"
+                                    size="lg"
+                                    className="font-semibold"
+                                >
                                     {animeData.title}
                                 </Link>
                             </CardBody>

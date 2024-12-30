@@ -37,3 +37,10 @@ body {
 .dark .nextui-card {
     background: rgba(255, 255, 255, 0.05);
 }
+
+@media (max-width: 768px) {
+    .mobile-image-bottom {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+}
