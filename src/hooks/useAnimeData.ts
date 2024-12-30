@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef } from "react";
+import { useState, useEffect, useRef, useCallback } from "react";
 import { AnimeRelease, CachedAnimeData } from "../types";
 import { fetchAnimeData } from "../utils/api";
 
@@ -7,6 +7,14 @@ export const useAnimeData = (filteredReleases: AnimeRelease[]) => {
     const [isLoading, setIsLoading] = useState(true);
     const [loadingStatus, setLoadingStatus] = useState<string>("");
     const abortControllerRef = useRef<AbortController | null>(null);
+
+    // Memoize the cache update function
+    const updateCache = useCallback((malId: number, data: any) => {
+        setAnimeDataCache(prev => ({
+            ...prev,
+            [malId]: data
+        }));
+    }, []);
 
     useEffect(() => {
         // Create new abort controller for this effect
@@ -37,25 +45,23 @@ export const useAnimeData = (filteredReleases: AnimeRelease[]) => {
                         batch.map(async release => {
                             try {
                                 const animeData = await fetchAnimeData(release.malId);
-
-                                if (animeData) {
-                                    setAnimeDataCache(prev => ({
-                                        ...prev,
-                                        [release.malId]: animeData
-                                    }));
+                                if (animeData && !abortControllerRef.current?.signal.aborted) {
+                                    updateCache(release.malId, animeData);
                                 }
                             } catch (error) {
                                 // Log error but continue processing other items
                                 console.error(`Error loading anime ${release.malId}:`, error);
                             } finally {
-                                completed++;
-                                setLoadingStatus(`Loading anime data... ${completed}/${missingIds.length}`);
+                                if (!abortControllerRef.current?.signal.aborted) {
+                                    completed++;
+                                    setLoadingStatus(`Loading anime data... ${completed}/${missingIds.length}`);
+                                }
                             }
                         })
                     );
 
                     // Add controlled delay between batches to avoid rate limits
-                    if (releases.length > 0) {
+                    if (releases.length > 0 && !abortControllerRef.current?.signal.aborted) {
                         const delay = Math.min(1000 * Math.pow(1.5, completed / batchSize), 3000);
                         await new Promise(resolve => setTimeout(resolve, delay));
                     }
@@ -77,7 +83,7 @@ export const useAnimeData = (filteredReleases: AnimeRelease[]) => {
         return () => {
             abortControllerRef.current?.abort();
         };
-    }, [filteredReleases]); // Remove animeDataCache dependency
+    }, [filteredReleases, animeDataCache, updateCache]);
 
     return { animeDataCache, isLoading, loadingStatus };
 };

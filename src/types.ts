@@ -20,6 +20,50 @@ export interface AnimeData {
     url: string;
     title: string;
     title_english: string | null;
+    title_japanese: string;
+    type: string;
+    episodes: number | null;
+    status: string;
+    airing: boolean;
+    aired: {
+        from: string;
+        to: string;
+        prop: {
+            from: {
+                day: number;
+                month: number;
+                year: number;
+            };
+            to: {
+                day: number;
+                month: number;
+                year: number;
+            };
+        };
+        string: string;
+    };
+    duration: string;
+    rating: string;
+    score: number;
+    scored_by: number;
+    rank: number;
+    popularity: number;
+    members: number;
+    favorites: number;
+    background: string;
+    premiered: string;
+    broadcast: string;
+    related: Record<string, AnimeData[]>;
+    producers: AnimeData[];
+    licensors: AnimeData[];
+    studios: AnimeData[];
+    genres: AnimeData[];
+    opening_themes: string[];
+    ending_themes: string[];
+    trailer_url: string | null;
+    season: string | null;
+    year: number | null;
+    synopsis: string;
     images: {
         jpg: {
             large_image_url: string;
