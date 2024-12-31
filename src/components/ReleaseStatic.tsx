@@ -91,7 +91,7 @@ const ReleaseStatic = () => {
         );
 
     return (
-        <Table aria-label="Best Release Table" className="w-full">
+        <Table aria-label="Best Release Table" className="w-full" isStriped={true}>
             <TableHeader>
                 <TableColumn>Title</TableColumn>
                 <TableColumn>Best</TableColumn>

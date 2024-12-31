@@ -1,14 +1,13 @@
 "use client";
 
 import React, { useMemo } from "react";
-import { Table, TableHeader, TableBody, TableColumn, TableRow, TableCell } from "@nextui-org/react";
+import { Table, TableHeader, TableBody, TableColumn, TableRow, TableCell, Link } from "@nextui-org/react";
 import { SearchBar } from "./components/SearchBar";
 import { LoadingSpinner } from "./components/LoadingSpinner";
 import { useAnimeData } from "./hooks/useAnimeData";
 import { useReleaseData } from "./hooks/useReleaseData";
 import { useSearch } from "./hooks/useSearch";
 import { useRouter } from "next/navigation";
-import Link from "next/link";
 
 const AnimeReleaseTable: React.FC = () => {
     const router = useRouter();
@@ -72,7 +71,7 @@ const AnimeReleaseTable: React.FC = () => {
                                             href={`/anime/${release.malId}`}
                                             className="text-foreground hover:opacity-80"
                                             color="foreground"
-                                            onClick={() => router.push(`/anime/${release.malId}`)}
+                                            onPress={() => router.push(`/anime/${release.malId}`)}
                                         >
                                             {animeData?.title || release.title}
                                         </Link>
@@ -82,7 +81,7 @@ const AnimeReleaseTable: React.FC = () => {
                                             href={`/anime/${release.malId}`}
                                             className="text-foreground hover:opacity-80"
                                             color="foreground"
-                                            onClick={() => router.push(`/anime/${release.malId}`)}
+                                            onPress={() => router.push(`/anime/${release.malId}`)}
                                         >
                                             {animeData?.title_english || "N/A"}
                                         </Link>
