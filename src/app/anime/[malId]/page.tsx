@@ -133,8 +133,8 @@ export default function Page(props: PageProps) {
                                     <Calendar size={14} />
                                     <span className="text-xs capitalize">
                                         {animeData.season && animeData.year
-                                            ? `${animeData.season} ${animeData.year || "Unknown"}`
-                                            : "Unknown"}
+                                            ? `${animeData.season} ${animeData.year}`
+                                            : animeData.aired?.string || "Unknown"}
                                     </span>
                                 </div>
                                 <div className="flex items-center gap-1">
