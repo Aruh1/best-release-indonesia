@@ -13,6 +13,80 @@
         ]
     },
     {
+        "malId": 31646,
+        "title": "3-gatsu no Lion",
+        "bestAlternatives": [
+            {
+                "name": "[Ougi-Subs]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1-6MtT0r_ADTeT52iNX3yc6u5pGqSr1KY?usp=drive_link"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 50,
+        "title": "Aa! Megami-sama!",
+        "bestAlternatives": [
+            {
+                "name": "[Andanime]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1NkKRjGFkbYGRofqd2faGgStnr-eADZX3?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 25397,
+        "title": "Absolute Duo",
+        "bestAlternatives": [
+            {
+                "name": "[D-AnimeSub]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1qud5RsTObSlhn1qisZiToJ1OpzVgJfpg?usp=sharing"
+                ]
+            }
+        ],
+        "notes": "Takarir:\n D-AnimeSub (Tirami Fansub)"
+    },
+    {
+        "malId": 11759,
+        "title": "Accel World",
+        "bestAlternatives": [
+            {
+                "name": "S1: [Ani-BD]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1hA25foOy0uAwMmHxdBQ0ZY2nWdh5XWSt?usp=sharing"
+                ]
+            },
+            {
+                "name": "Movie: [Ani-BD]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/file/d/1ehabv8FdT0G0OxAyDtACkkxNXNYj3rOG/view?usp=drive_link"
+                ]
+            }
+        ],
+        "notes": "Takarir:\n Ani-BD (Kazesubs & Souki-Hasshou)"
+    },
+    {
+        "malId": 12291,
+        "title": "Acchi Kocchi",
+        "bestAlternatives": [
+            {
+                "name": "[LoliSekaisubs]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/18R5ZdIEcO58ly_oFbhXF9qcUkRVNavFJ?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
         "malId": 39790,
         "title": "Adachi to Shimamura",
         "bestReleases": [
@@ -36,14 +110,54 @@
         "title": "Aho Girl",
         "bestReleases": [
             {
-                "name": "JPBD + Caramel"
+                "name": "JPBD + D-AnimeSub, Caramel"
             }
         ],
         "bestAlternatives": [
             {
+                "name": "[D-AnimeSub]",
+                "description": "WEB 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1wp5n35cTcQr7SW6DNpAI_45cpyROJBoP?usp=sharing"
+                ]
+            },
+            {
                 "name": "[Caramel]",
                 "description": "WEB mix",
                 "downloadLinks": ["https://terabox.com/s/1kKduEMfrSsMupn3HEhGSVw"]
+            }
+        ]
+    },
+    {
+        "malId": 30123,
+        "title": "Akagami no Shirayuki-hime",
+        "bestAlternatives": [
+            {
+                "name": "S1: [Pantsubber]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/11mouZAQwBkpbvaxZVlXYEmrF7aPt4Okv?usp=sharing"
+                ]
+            },
+            {
+                "name": "S2: [Pantsubber]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1Sh4JoZxx0o1Wk3MGkjUo_zjRQ3UtRFoV?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 25013,
+        "title": "Akatsuki no Yona",
+        "bestAlternatives": [
+            {
+                "name": "[D-AnimeSub]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1OYv362H4wOmjWJ2tVh0udBV6fjSH-_90?usp=sharing"
+                ]
             }
         ]
     },
@@ -66,6 +180,13 @@
                 "name": "[M-C]",
                 "description": "WEB 720p",
                 "downloadLinks": ["https://terabox.com/s/1STSM26xmcTCEKbKGQaiJEw"]
+            },
+            {
+                "name": "[HarunaSubs]",
+                "description": "BD 1080p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1_O3J84WhI1OrD0XyZfHTWMJO1-8spp8B?usp=sharing"
+                ]
             }
         ]
     },
@@ -86,6 +207,104 @@
         ]
     },
     {
+        "malId": 22147,
+        "title": "Amagi Brilliant Park",
+        "bestAlternatives": [
+            {
+                "name": "[Neo~Tiramisu]",
+                "description": "Mix",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1hrqnx4Z_I_06E3omhhV6oJ5u7AUQEMYi?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 22147,
+        "title": "Angel Beats!",
+        "bestAlternatives": [
+            {
+                "name": "[D-AnimeSub]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/15Rsf1qfLTbyUj-FqZ-930mT20Pdk4Vdo?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 9989,
+        "title": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.",
+        "bestAlternatives": [
+            {
+                "name": "S1: [ABDC]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1HeAk_QlzcfLKlI_qXAGjaoNrHt76sM1n?usp=sharing"
+                ]
+            },
+            {
+                "name": "Special: [Moesubs]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1Q7rkhnacHriuptmA-hiw1yzy0NvtQb6u?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 11433,
+        "title": "Ano Natsu de Matteru",
+        "bestAlternatives": [
+            {
+                "name": "[Neo]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1gWaMFoziCGj7GKDzcg_vhtBulEvePqDG?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 11111,
+        "title": "Another",
+        "bestAlternatives": [
+            {
+                "name": "[AnimeSubIND]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1mGDl9bY2E-QJoAYXKhX0TxX8c2VXoemv?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 24833,
+        "title": "Ansatsu Kyoushitsu",
+        "bestAlternatives": [
+            {
+                "name": "S1: [DA]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1RMwxdfacCzHN05TJtdkGGWyx_5E39hcP?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 21995,
+        "title": "Ao Haru Ride",
+        "bestAlternatives": [
+            {
+                "name": "[Shiro]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/13CVCKj4l2KTxjsxIJ7KhD-HuovEzt7_Y?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
         "malId": 38753,
         "title": "Araburu Kisetsu no Otome-domo yo.",
         "bestReleases": [
@@ -99,6 +318,59 @@
                 "description": "WEB 720p",
                 "downloadLinks": [
                     "https://mygavilan-my.sharepoint.com/:f:/g/personal/yuki_fansub_my_gavilan_edu/EpV1-OASngNIjfUhIiGeDUUBWMYHeqIiBSWn13tG01ud1w?e=UKzS13"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 7647,
+        "title": "Arakawa Under the Bridge",
+        "bestAlternatives": [
+            {
+                "name": "S1: [Zensub-L]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1IwZdr3e2L_YIL5XPDO7cqW-6UKh2Odbv?usp=sharing"
+                ]
+            },
+            {
+                "name": "S2: [Amatirasub]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/19Bq6EEzNp5_qtg1VmAHSCjKOJk68A6jX?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 477,
+        "title": "Aria the Animation",
+        "bestAlternatives": [
+            {
+                "name": "Aria the Natural: [Wire-Subs]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1upnp1U6Ff4fAU2NxD2cb0NLDLw_OCldc?usp=sharing"
+                ]
+            },
+            {
+                "name": "Aria the Avvenier: [KentutNeraka]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1wRC_9AEHg9daYnPKoArGhoqVk1ho2g6n?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 36882,
+        "title": "Arifureta Shokugyou de Sekai Saikyou",
+        "bestAlternatives": [
+            {
+                "name": "[NeoSubs]",
+                "description": "BD mix",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1QCH1Xlm-xFauUNceV8JcCBNef_WBYKtc?usp=sharing"
                 ]
             }
         ]
@@ -160,6 +432,86 @@
         ]
     },
     {
+        "malId": 6347,
+        "title": "Baka to Test to Shoukanjuu",
+        "bestAlternatives": [
+            {
+                "name": "S1: [Wiresubs]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1p6_WU6M-l479QqOKBhqJAveqLnqZGyT7?usp=drive_link"
+                ]
+            },
+            {
+                "name": "OVA: [ZenSub]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1SFfSeWV-it3_fn50Q1RotrcHLNwes95v?usp=drive_link"
+                ]
+            },
+            {
+                "name": "S2: [BTS]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1nrv2wPFSguHz_JqnouPbKPuHLqDWZOSC?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 6347,
+        "title": "Baka to Test to Shoukanjuu",
+        "bestAlternatives": [
+            {
+                "name": "[Wiresubs]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1p6_WU6M-l479QqOKBhqJAveqLnqZGyT7?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 20787,
+        "title": "Black Bullet",
+        "bestAlternatives": [
+            {
+                "name": "[Peler]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/13JfNLv-1413xNMtiZMAOY-Mtq8ePOFoG?usp=drive_link"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 889,
+        "title": "Black Lagoon",
+        "bestAlternatives": [
+            {
+                "name": "S1: [Aiko]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1O2j9wtc6IC_hAD_Zu06T7XCiygVwGOPX?usp=sharing"
+                ]
+            },
+            {
+                "name": "S2: [Aiko]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1M-WaR-s8t_3u8Jo8FMh50w2zdljikXTj?usp=sharing"
+                ]
+            },
+            {
+                "name": "OVA: [Ougi-Subs]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1Gl8pEieoO1w0Vu7KAX40Nb0qFt2KOmVW?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
         "malId": 34618,
         "title": "Blend S",
         "bestAlternatives": [
@@ -168,9 +520,55 @@
                 "downloadLinks": [
                     "https://www.pololer.web.id/0:/%5Bpololer%5D%20Blend%20S%20%28BDRip%201920x1080%20x264%20FLAC%29/"
                 ]
+            },
+            {
+                "name": "[D-AnimeSub]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1fSbKvxQtYZYFfaFRuKhuMxLPU95vqJrN?usp=sharing"
+                ]
             }
         ],
         "notes": "Video :\nBeatrice-Raws\nTakarir :\n- Manga Neko (D-AnimeSub) [Default]\n - Kuroyuri (Kusonime)"
+    },
+    {
+        "malId": 31043,
+        "title": "Boku dake ga Inai Machi",
+        "bestAlternatives": [
+            {
+                "name": "[Sora Iro]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/13JfNLv-1413xNMtiZMAOY-Mtq8ePOFoG?usp=drive_link"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 31964,
+        "title": "Boku no Hero Academia",
+        "bestAlternatives": [
+            {
+                "name": "S1: [Neo-Bentoo]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1McRdVaxAkLr9SQCJX7g5XeE-V5TYxph4?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 31964,
+        "title": "Boku no Hero Academia",
+        "bestAlternatives": [
+            {
+                "name": "S1: [Neo-Bentoo]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1McRdVaxAkLr9SQCJX7g5XeE-V5TYxph4?usp=sharing"
+                ]
+            }
+        ]
     },
     {
         "malId": 35712,
@@ -200,6 +598,36 @@
                 "description": "WEB 1080p",
                 "downloadLinks": [
                     "https://drive.google.com/drive/folders/12hOdUrxASOkp9GoVCMn8JeJlTjuoYz3i?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 10719,
+        "title": "Boku wa Tomodachi ga Sukunai",
+        "bestAlternatives": [
+            {
+                "name": "S1: [ML]",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/10d-t0UrmDiKrf-4ysn4fLyD0UjcwLrZu?usp=sharing"
+                ]
+            },
+            {
+                "name": "S2: [Neo]",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1Dmp32LfX6K-hew4UNrns6gveSFMwh9FD?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 1222,
+        "title": "Bokura ga Ita",
+        "bestAlternatives": [
+            {
+                "name": "[ExLD]",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1cfoUz1nsNxELTYiKgvE8sWXqfBwEpDuJ?usp=sharing"
                 ]
             }
         ]
@@ -1563,19 +1991,12 @@
         "title": "Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?",
         "bestReleases": [
             {
-                "name": "Noiy + Delima"
+                "name": "[Entah]",
+                "description": "BD 1080p",
+                "downloadLinks": ["https://drive.google.com/file/d/1KAbDKl87FqgHn5B6E7Yy9LDQOK6HjrTC"]
             }
         ],
-        "bestAlternatives": [
-            {
-                "name": "[pololer]",
-                "description": "Beatrice-Raws",
-                "downloadLinks": [
-                    "https://www.pololer.web.id/0:/%5Bpololer%5D%20Uchiage%20Hanabi%2C%20Shita%20kara%20Miru%20ka%3FYoko%20kara%20Miru%20ka%3F%20%28BDRip%201920x1080%20x264%20FLAC%29%20%5B781F6025%5D.mkv"
-                ]
-            }
-        ],
-        "notes": "Takarir:\n Delima",
+        "notes": "Video:\n Noiy \n Audio: \n - FLAC 5.1 (Default) \n FLAC 2.1 \nTakarir:\n - PhallSubs \n - PhallSubs (Signs & Songs) \n - Delima (Default) \n - Jal-Aia \n - AWSubs",
         "qualityComparisons": "https://slow.pics/c/Bdq38j4R"
     },
     {
