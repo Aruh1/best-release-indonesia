@@ -43,6 +43,11 @@ const FaqPage = () => {
             title: "Bagaimana aku mengetahui file tersebut Batch, Part, OVA, dll?",
             content:
                 "Kami mencantumkan informasi tersebut di bagian deskripsi rilisan. Jika kamu tidak menemukan informasi tersebut, silakan bergabung dengan peladen Discord kami dan bertanya langsung kepada anggota lain."
+        },
+        {
+            title: "Apa arti warna pada status rilisan?",
+            content:
+                'Warna pada status rilisan menunjukkan tingkat kualitas rilisan. Kuning menunjukkan rilisan tersebut belum di-mux (mungkin Anda?), dan merah menunjukkan rilisan yang tidak direkomendasikan atau "Bad" Encode.'
         }
     ];
 

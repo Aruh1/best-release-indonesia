@@ -44,6 +44,8 @@ const ReleaseStatic = () => {
         return match ? match[0] : null;
     };
 
+    const unmuxedRegex = /\+/;
+
     const renderReleases = (releases: Release[] | string | undefined) => {
         if (!releases) return null;
         if (typeof releases === "string") return <span className="text-blue-400">{releases}</span>;
@@ -53,7 +55,12 @@ const ReleaseStatic = () => {
                 {release.downloadLinks ? (
                     Array.isArray(release.downloadLinks) ? (
                         release.downloadLinks.map((link, linkIndex) => (
-                            <Link key={linkIndex} href={link} isExternal color="primary">
+                            <Link
+                                key={linkIndex}
+                                href={link}
+                                isExternal
+                                color={release.name && unmuxedRegex.test(release.name) ? "warning" : "primary"}
+                            >
                                 {release.name
                                     ? Array.isArray(release.downloadLinks) && release.downloadLinks.length > 1
                                         ? `${release.name} #${linkIndex + 1}`
@@ -64,12 +71,20 @@ const ReleaseStatic = () => {
                             </Link>
                         ))
                     ) : (
-                        <Link href={release.downloadLinks} isExternal color="primary">
+                        <Link
+                            href={release.downloadLinks}
+                            isExternal
+                            color={release.name && unmuxedRegex.test(release.name) ? "warning" : "primary"}
+                        >
                             {release.name || "Download"}
                         </Link>
                     )
                 ) : (
-                    <span className="text-blue-400">{release.name || "N/A"}</span>
+                    <span
+                        className={`${release.name && unmuxedRegex.test(release.name) ? "text-warning" : "text-blue-400"}`}
+                    >
+                        {release.name || "N/A"}
+                    </span>
                 )}
                 {release.description && <span className="text-default-400">({release.description})</span>}
             </div>
