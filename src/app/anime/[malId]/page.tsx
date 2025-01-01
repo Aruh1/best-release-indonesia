@@ -19,13 +19,8 @@ interface PageProps {
 
 export default function Page(props: PageProps) {
     const params = use(props.params);
-    // Resolving params dynamically is now handled
     const malId = Number(params.malId);
-
-    // Validasi malId
     const isValidMalId = !isNaN(malId) && malId > 0;
-
-    // Hooks tetap dipanggil tanpa kondisi
     const { animeDataCache } = useAnimeData(isValidMalId ? [{ malId, title: "" }] : []);
     const animeData = isValidMalId ? animeDataCache[malId] : null;
     const [release, setRelease] = React.useState<AnimeRelease | null>(null);
@@ -117,18 +112,23 @@ export default function Page(props: PageProps) {
             <main className="container mx-auto p-4">
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mobile-image-bottom">
                     <Card className="col-span-1" style={{ height: "fit-content" }}>
-                        <CardHeader className="absolute z-10 top-1 flex-col !items-start">
-                            <p className="text-tiny text-white/80 uppercase font-bold">☆{animeData.score}</p>
-                            <h4 className="text-white font-medium text-large">{animeData.title}</h4>
-                        </CardHeader>
+                        <div className="absolute z-10 top-0 left-0 right-0 bg-gradient-to-b from-black/90 to-transparent h-32 rounded-t-lg">
+                            <CardHeader className="flex-col !items-start p-4">
+                                <p className="text-tiny text-white uppercase font-bold flex items-center gap-1">
+                                    <Star size={14} className="fill-white" />
+                                    {animeData.score}
+                                </p>
+                                <h4 className="text-white font-medium text-large drop-shadow-lg">{animeData.title}</h4>
+                            </CardHeader>
+                        </div>
                         <Image
                             removeWrapper
                             alt={animeData.title}
                             className="z-0 w-full h-full object-cover"
                             src={animeData.images?.jpg.large_image_url}
                         />
-                        <div className="absolute bottom-0 left-0 right-0 bg-black bg-opacity-50 p-2 rounded-b-lg">
-                            <div className="flex items-center justify-between text-white">
+                        <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/90 to-transparent h-24 rounded-b-lg">
+                            <div className="absolute bottom-0 left-0 right-0 flex items-center justify-between text-white p-4">
                                 <div className="flex items-center gap-1">
                                     <Calendar size={14} />
                                     <span className="text-xs capitalize">
