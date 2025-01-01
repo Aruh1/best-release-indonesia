@@ -548,16 +548,16 @@
         "title": "Hoshikuzu Telepath",
         "bestReleases": [
             {
-                "name": "RRA + Haruzora"
+                "name": "[Haruzora]",
+                "description": "BD 1080p",
+                "downloadLinks": [
+                    "https://files.h4ru.my.id/1:/Hoshitele%20[BD]/",
+                    "https://sm2gr-my.sharepoint.com/:f:/g/personal/haruzora_sm2gr_onmicrosoft_com/Eoq4w9aLRkdBi1RaNMD4ASEBNQKIXlPivR1CMq7r-eQc-Q?e=KKVQSp",
+                    "https://terabox.com/s/15o2BNJ1VcQVGkO9TQIzvdQ"
+                ]
             }
         ],
-        "bestAlternatives": [
-            {
-                "name": "[Haruzora]",
-                "description": "WEB 1080p",
-                "downloadLinks": ["https://files.h4ru.my.id/1:/Telepati%20Bintang/"]
-            }
-        ]
+        "notes": "Video:\n RRA"
     },
     {
         "malId": 39730,
