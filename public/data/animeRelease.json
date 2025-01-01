@@ -15,6 +15,11 @@
     {
         "malId": 31646,
         "title": "3-gatsu no Lion",
+        "bestReleases": [
+            {
+                "name": "MTBB + Ougi-Subs"
+            }
+        ],
         "bestAlternatives": [
             {
                 "name": "[Ougi-Subs]",
@@ -41,6 +46,11 @@
     {
         "malId": 25397,
         "title": "Absolute Duo",
+        "bestReleases": [
+            {
+                "name": "KH + D-AnimeSub"
+            }
+        ],
         "bestAlternatives": [
             {
                 "name": "[D-AnimeSub]",
@@ -131,6 +141,11 @@
     {
         "malId": 30123,
         "title": "Akagami no Shirayuki-hime",
+        "bestReleases": [
+            {
+                "name": "Beatrice-Raws + Pantsubber"
+            }
+        ],
         "bestAlternatives": [
             {
                 "name": "S1: [Pantsubber]",
@@ -151,6 +166,11 @@
     {
         "malId": 25013,
         "title": "Akatsuki no Yona",
+        "bestReleases": [
+            {
+                "name": "Beatrice-Raws + D-AnimeSub"
+            }
+        ],
         "bestAlternatives": [
             {
                 "name": "[D-AnimeSub]",
@@ -209,6 +229,11 @@
     {
         "malId": 22147,
         "title": "Amagi Brilliant Park",
+        "bestReleases": [
+            {
+                "name": "MTBB + Neo~Tiramisu"
+            }
+        ],
         "bestAlternatives": [
             {
                 "name": "[Neo~Tiramisu]",
@@ -220,7 +245,7 @@
         ]
     },
     {
-        "malId": 22147,
+        "malId": 6547,
         "title": "Angel Beats!",
         "bestAlternatives": [
             {
@@ -235,6 +260,11 @@
     {
         "malId": 9989,
         "title": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.",
+        "bestReleases": [
+            {
+                "name": "MTBB + ABDC + Moesubs"
+            }
+        ],
         "bestAlternatives": [
             {
                 "name": "S1: [ABDC]",
@@ -268,6 +298,11 @@
     {
         "malId": 11111,
         "title": "Another",
+        "bestReleases": [
+            {
+                "name": "JPBD + AnimeSubIND"
+            }
+        ],
         "bestAlternatives": [
             {
                 "name": "[AnimeSubIND]",
@@ -281,6 +316,11 @@
     {
         "malId": 24833,
         "title": "Ansatsu Kyoushitsu",
+        "bestReleases": [
+            {
+                "name": "Okay-Subs + DA"
+            }
+        ],
         "bestAlternatives": [
             {
                 "name": "S1: [DA]",
@@ -294,6 +334,11 @@
     {
         "malId": 21995,
         "title": "Ao Haru Ride",
+        "bestReleases": [
+            {
+                "name": "Beatrice-Raws + Shiro"
+            }
+        ],
         "bestAlternatives": [
             {
                 "name": "[Shiro]",
@@ -325,6 +370,11 @@
     {
         "malId": 7647,
         "title": "Arakawa Under the Bridge",
+        "bestReleases": [
+            {
+                "name": "ANE + Zensub-L, Amatirasub"
+            }
+        ],
         "bestAlternatives": [
             {
                 "name": "S1: [Zensub-L]",
@@ -365,6 +415,11 @@
     {
         "malId": 36882,
         "title": "Arifureta Shokugyou de Sekai Saikyou",
+        "bestReleases": [
+            {
+                "name": "JPBD + NeoSubs"
+            }
+        ],
         "bestAlternatives": [
             {
                 "name": "[NeoSubs]",
@@ -459,21 +514,13 @@
         ]
     },
     {
-        "malId": 6347,
-        "title": "Baka to Test to Shoukanjuu",
-        "bestAlternatives": [
-            {
-                "name": "[Wiresubs]",
-                "description": "BD 720p",
-                "downloadLinks": [
-                    "https://drive.google.com/drive/folders/1p6_WU6M-l479QqOKBhqJAveqLnqZGyT7?usp=sharing"
-                ]
-            }
-        ]
-    },
-    {
         "malId": 20787,
         "title": "Black Bullet",
+        "bestReleases": [
+            {
+                "name": "Beatrice-Raws + Peler"
+            }
+        ],
         "bestAlternatives": [
             {
                 "name": "[Peler]",
@@ -487,6 +534,11 @@
     {
         "malId": 889,
         "title": "Black Lagoon",
+        "bestReleases": [
+            {
+                "name": "Beatrice-Raws (S1) / Salender (S2) + D-AnimeSub"
+            }
+        ],
         "bestAlternatives": [
             {
                 "name": "S1: [Aiko]",
@@ -534,6 +586,11 @@
     {
         "malId": 31043,
         "title": "Boku dake ga Inai Machi",
+        "bestReleases": [
+            {
+                "name": "MTBB + Sora Iro"
+            }
+        ],
         "bestAlternatives": [
             {
                 "name": "[Sora Iro]",
@@ -547,19 +604,11 @@
     {
         "malId": 31964,
         "title": "Boku no Hero Academia",
-        "bestAlternatives": [
+        "bestReleases": [
             {
-                "name": "S1: [Neo-Bentoo]",
-                "description": "BD 720p",
-                "downloadLinks": [
-                    "https://drive.google.com/drive/folders/1McRdVaxAkLr9SQCJX7g5XeE-V5TYxph4?usp=sharing"
-                ]
+                "name": "Reza + Neo-Bentoo"
             }
-        ]
-    },
-    {
-        "malId": 31964,
-        "title": "Boku no Hero Academia",
+        ],
         "bestAlternatives": [
             {
                 "name": "S1: [Neo-Bentoo]",
