@@ -682,13 +682,74 @@
         ]
     },
     {
+        "malId": 21405,
+        "title": "Bokura wa Minna Kawai-sou",
+        "bestAlternatives": [
+            {
+                "name": "[D-AnimeSub]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1VORE6_bhdhcze9zn9GkCVhjufnUig7je?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
         "malId": 38186,
         "title": "Bokutachi wa Benkyou ga Dekinai",
         "bestAlternatives": [
             {
                 "name": "S2: [Anigo x PN]",
                 "downloadLinks": [
-                    "https://drive.google.com/drive/folders/1z7Q-NMpF0f8PbTVs1ZuBhojnDsCusDZO?usp=sharing"
+                    "https://drive.google.com/drive/folders/1z7Q-NMpF0f8PbTVs1ZuBhojnDsCusDZO?usp=sharing",
+                    "https://drive.google.com/drive/folders/1vi6AMdsbBWXFvYodXYxZbepYhSKCB-VS?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 14345,
+        "title": "Btooom!",
+        "bestAlternatives": [
+            {
+                "name": "[Ani-BD]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1AO092yBaKc1uKcKh3MlgdVzWplNeyEwb?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 31478,
+        "title": "Bungou Stray Dogs",
+        "bestAlternatives": [
+            {
+                "name": "S1: [Pucuk]",
+                "description": "720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1tfye5flo3z1jo2doM1dkb8HOk2mCbodQ?usp=sharing"
+                ]
+            },
+            {
+                "name": "S2: [Pucuk]",
+                "description": "720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/12qXDiKb0d9nM9LyuGY8mDjvWfHgfuZV2?usp=sharing"
+                ]
+            },
+            {
+                "name": "S3: [Pucuk]",
+                "description": "720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1VNH-SaaU4LU_VLU5Gc8rXi743taHGonN?usp=sharing"
+                ]
+            },
+            {
+                "name": "Movie: [Pucuk]",
+                "description": "1080p",
+                "downloadLinks": [
+                    "https://drive.google.com/file/d/1Sq858xH43tbtZI8mOs3xoya3AWBNbQwj/view?usp=drive_link"
                 ]
             }
         ]
