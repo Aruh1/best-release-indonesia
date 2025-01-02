@@ -684,6 +684,11 @@
     {
         "malId": 21405,
         "title": "Bokura wa Minna Kawai-sou",
+        "bestReleases": [
+            {
+                "name": "Beatrice-Raws + D-AnimeSub"
+            }
+        ],
         "bestAlternatives": [
             {
                 "name": "[D-AnimeSub]",
@@ -710,6 +715,11 @@
     {
         "malId": 14345,
         "title": "Btooom!",
+        "bestReleases": [
+            {
+                "name": "Beatrice-Raws + Ani-BD"
+            }
+        ],
         "bestAlternatives": [
             {
                 "name": "[Ani-BD]",
@@ -723,6 +733,11 @@
     {
         "malId": 31478,
         "title": "Bungou Stray Dogs",
+        "bestReleases": [
+            {
+                "name": "JPBD + Pucuk"
+            }
+        ],
         "bestAlternatives": [
             {
                 "name": "S1: [Pucuk]",
@@ -755,6 +770,68 @@
         ]
     },
     {
+        "malId": 33475,
+        "title": "Busou Shoujo Machiavellianism",
+        "bestAlternatives": [
+            {
+                "name": "[KW]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1cM7SUnJOqEjm557_w8z6V_oSuHXkxkAI?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 1689,
+        "title": "Byousoku 5 Centimeter",
+        "bestReleases": [
+            {
+                "name": "ITBD / Beatrice-Raws + bk"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[bk]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/file/d/1XqfF_2taIeKjscZOl_yvxhPF2xKqQUUq/view?usp=drive_link"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 12293,
+        "title": "Campione!",
+        "bestReleases": [
+            {
+                "name": "sergey_krs + Ani-BD"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[Ani-BD]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1mTnL-5s141WLb3CgYowJbI1KSLtZz1_j?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 10012,
+        "title": "Carnival Phantasm",
+        "bestAlternatives": [
+            {
+                "name": "[AnimeSubIND]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1pto23B7-a0caX1KsiY2mH0SYVNhs_QPK?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
         "malId": 44511,
         "title": "Chainsaw Man",
         "bestReleases": [
@@ -775,6 +852,13 @@
         ],
         "bestAlternatives": [
             {
+                "name": "[AmpasWorks]",
+                "description": "BD 1080p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1pto23B7-a0caX1KsiY2mH0SYVNhs_QPK?usp=sharing"
+                ]
+            },
+            {
                 "name": "[PHP Works]",
                 "description": "BD 720p",
                 "downloadLinks": [
@@ -783,6 +867,38 @@
             }
         ],
         "notes": "Takarir: \n PHP Works (Lokalsubs)"
+    },
+    {
+        "malId": 14741,
+        "title": "Chuunibyou demo Koi ga Shitai!",
+        "bestReleases": [
+            {
+                "name": "Yousei-Raws + D-AnimeSub | Beatrice-Raws (Movie) + DTD"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "S1: [D-AnimeSub]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1nPjF1Mh5IfoUV3UYdL54I5ZBL82gy53d?usp=sharing"
+                ]
+            },
+            {
+                "name": "S2: [D-AnimeSub]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1G6wPV7QDHkE9feA1cEn6zNPHdUqXcdKq?usp=sharing"
+                ]
+            },
+            {
+                "name": "Movie: [DTD]",
+                "description": "BD 1080p",
+                "downloadLinks": [
+                    "https://drive.google.com/file/d/141hp1MQ0do2Uj7vKL_nlC4TczMJu_mI8/view?usp=drive_link"
+                ]
+            }
+        ]
     },
     {
         "malId": 34382,
@@ -799,9 +915,67 @@
                 "downloadLinks": [
                     "https://www.pololer.web.id/0:/%5Bpololer%5D%20Citrus%20%28BDRip%201920x1080%20x264%20FLAC%29/"
                 ]
+            },
+            {
+                "name": "[UBW]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1YHljdluMWiszRbeFHB50QhHSSXdF9BXD?usp=sharing"
+                ]
             }
         ],
         "notes": "UBW (Moesubs (1-5), Kuroyuri (6-12))"
+    },
+    {
+        "malId": 2167,
+        "title": "Clannad",
+        "bestReleases": [
+            {
+                "name": "Okay-Raws + AnimeSubIND"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "S1: [AnimeSubIND]",
+                "description": "BD",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/13p-VByZJF9JQ3eeoloX98XtpZ6s5WNFy?usp=sharing"
+                ]
+            },
+            {
+                "name": "S2: [AnimeSubIND]",
+                "description": "BD",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1hDtGSFPYgn3baHyRgdCiYwo93JRRIFGT?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 1818,
+        "title": "Claymore",
+        "bestAlternatives": [
+            {
+                "name": "[SIKN]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1b-hMvQyemWiueooKLWfp2xHefo3Yjp42?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 1575,
+        "title": "Code Geass",
+        "bestAlternatives": [
+            {
+                "name": "Movie1-3 [IsengSub]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1mFUaPgsMiOVoJ6hKOdTzzpC_pJi1FlSd?usp=sharing"
+                ]
+            }
+        ]
     },
     {
         "malId": 35756,
@@ -819,6 +993,19 @@
             }
         ],
         "notes": "Takarir:\n - Sora Iro-Ginsub (Edited)"
+    },
+    {
+        "malId": 20031,
+        "title": "D-Frag!",
+        "bestAlternatives": [
+            {
+                "name": "[D-AnimeSub]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1uvtnOMyPYJec-yRludE_ewhLOvL07T5N?usp=sharing"
+                ]
+            }
+        ]
     },
     {
         "malId": 51586,
@@ -841,6 +1028,136 @@
                 "downloadLinks": ["https://files.h4ru.my.id/1:/D4DJ%20[BD]/1080p/"]
             }
         ]
+    },
+    {
+        "malId": 31636,
+        "title": "Dagashi Kashi",
+        "bestReleases": [
+            {
+                "name": "Beatrice-Raws + Pantsubber"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[Pantsubber]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1bvGuEj-obHRy6Xn3muB4Na_wrBkOABtt?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 17827,
+        "title": "Daitoshokan no Hitsujikai",
+        "bestAlternatives": [
+            {
+                "name": "[NeoSubs]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1VUaZTxCHQOaNr5ZuZmoOapZSuoQ6pCbY?usp=sharing"
+                ]
+            }
+        ],
+        "notes": "Takarir:\n NeoSubs (KazeSubs)"
+    },
+    {
+        "malId": 6747,
+        "title": "Dance in the Vampire Bund",
+        "bestAlternatives": [
+            {
+                "name": "[?]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1XJRc63mAqAN0-s2I82Y9WIdx3Iasmmjx?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 30127,
+        "title": "Danchigai",
+        "bestAlternatives": [
+            {
+                "name": "[NeoSubs]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1zCkicJve3I2kl3IgxPNkHQesTAWdBr-y?usp=sharing"
+                ]
+            }
+        ],
+        "notes": "Takarir:\n NeoSubs (LoliSekai)"
+    },
+    {
+        "malId": 11843,
+        "title": "Danshi Koukousei no Nichijou",
+        "bestAlternatives": [
+            {
+                "name": "[D-AnimeSub]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1lRCeZefUaH9Fi4b1Myr967I413P1K6-d?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 8915,
+        "title": "Dantalian no Shoka",
+        "bestReleases": [
+            {
+                "name": "JPBD + LoliSekai"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[LoliSekai]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1er6I0loiRy77vrYUFikP14yoqyDvyLU7?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 15583,
+        "title": "Date A Live",
+        "bestReleases": [
+            {
+                "name": "Beatrice-Raws (S1-S2, Movie), Raws-Maji (S3) + NeoSubs, Shiro-USW"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "S1: [NeoSubs]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1PT6pNM8do1CkL0GPNCM2z1QYwT2kp9ja?usp=sharing",
+                    "https://terabox.link/s/1Xgt31vo8WhPKDmXJou_IoA"
+                ]
+            },
+            {
+                "name": "S2: [Neo]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1eTmKZVcDcM8D2ESQtjEPNJ9IDz_8aQ6Q?usp=sharing",
+                    "https://terabox.link/s/1FWGua1nt_rTeR1kMDjurYg"
+                ]
+            },
+            {
+                "name": "Movie: [Shiro-USW]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/file/d/1lIPNC6AhtPc3lTxGDhTx0Pp4JbY4B8B1/view?usp=drive_link"
+                ]
+            },
+            {
+                "name": "S3: [NeoSubs]",
+                "description": "BD 720p",
+                "downloadLinks": ["https://terabox.link/s/1DgjG2BOa_d_DDTfYA9ntcw"]
+            }
+        ],
+        "notes": "Takarir:\n NeoSubs (Anime-BD (S1), Lolisekai (S2), Delsubs (S3))"
     },
     {
         "malId": 33988,
@@ -1807,6 +2124,32 @@
                 "description": "Batch BD 1080p",
                 "downloadLinks": [
                     "https://unpakacid-my.sharepoint.com/:u:/g/personal/craftjosie4095_unpak_ac_id/ERvQItq0KpZApr6hbNEK5Q8BP-y8Ctdw-QKgZApObAxNMw?e=gvtxEZ&download=1"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 23277,
+        "title": "Saenai Heroine no Sodatekata",
+        "bestReleases": [
+            {
+                "name": "Beatrice-Raws + Shiro, D-AnimeSub"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "S1: [Shiro]",
+                "description": "BD 1080p",
+                "downloadLinks": [
+                    "https://nyaa.si/view/809434",
+                    "https://drive.google.com/drive/folders/1vOjeydlcZAWfQtYSdMx02TEFIRy1-Tlr?usp=drive_link"
+                ]
+            },
+            {
+                "name": "S2: [D-AnimeSub]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1owRxjoGlnC_6zQXpSlG4TL0uoOYWmo0Y?usp=drive_link"
                 ]
             }
         ]
