@@ -1,6 +1,7 @@
 "use client";
 
 import React, { useMemo, use } from "react";
+import Head from "next/head";
 import { Card, CardBody, Link, Divider, Spinner, CardHeader, Image } from "@nextui-org/react";
 import type { AnimeRelease } from "@/types";
 import { ReleaseSection } from "@/components/ReleaseSection";
@@ -106,8 +107,23 @@ export default function Page(props: PageProps) {
         );
     }
 
+    const bestReleases = Array.isArray(release.bestReleases)
+        ? release.bestReleases.map(r => r.name).join(", ")
+        : release.bestReleases;
+    const bestAlternatives = Array.isArray(release.bestAlternatives)
+        ? release.bestAlternatives.map(r => r.name).join(", ")
+        : release.bestAlternatives;
+
     return (
         <>
+            <Head>
+                <title>{animeData.title}</title>
+                <meta name="author" content="Best Release Indonesia" />
+                <meta property="og:title" content={animeData.title} />
+                <meta property="og:description" content={`Best: ${bestReleases}, Alt: ${bestAlternatives}`} />
+                <meta property="og:image" content={animeData.images?.jpg.large_image_url} />
+                <meta name="theme-color" content="#23272A" />
+            </Head>
             <Header />
             <main className="container mx-auto p-4">
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mobile-image-bottom">
