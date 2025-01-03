@@ -83,7 +83,7 @@ const AnimeReleaseTable: React.FC = () => {
                                             color="foreground"
                                             onPress={() => router.push(`/anime/${release.malId}`)}
                                         >
-                                            {animeData?.title_english || "N/A"}
+                                            {animeData?.title_english || ""}
                                         </Link>
                                     </TableCell>
                                 </TableRow>
