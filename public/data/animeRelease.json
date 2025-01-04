@@ -1962,13 +1962,13 @@
         "title": "Koe no Katachi",
         "bestReleases": [
             {
-                "name": "[VFK]",
+                "name": "[Koisuru]",
                 "downloadLinks": [
                     "https://drive.google.com/file/d/1knutz8Uk-bORC3xJ-fqlERsDReEnrL5w/view?usp=drive_link"
                 ]
             }
         ],
-        "notes": "Video:\n Okay-Subs \nTakarir :\n- [Anitoki]\n- [AWSubs]\n- [CenatCenut]\n- [Haruzorasubs]\n- [Hinose Fansub]\n- [Itsuwari]\n- [Moesubs]\n- [Montblanc v2 Biasa]\n- [Montblanc v2 Tiramisu - Vi_Filter-kun Edit] (Default)\n- [Montblanc v2 Tiramisu]\n- [NeoSubs]\n- [Wibusubs]\n- [Kametsu] - English"
+        "notes": "Video:\n Okay-Subs \nTakarir :\n- [Anitoki]\n- [AWSubs]\n- [CenatCenut]\n- [Haruzorasubs]\n- [Hinose Fansub]\n- [Itsuwari]\n- [Moesubs]\n- [Montblanc] (Koisuru Edit) [Default]\n- [Wibusubs]\n- Simulcast (Indonesia)"
     },
     {
         "malId": 39388,
@@ -2057,7 +2057,7 @@
                 ]
             }
         ],
-        "notes": "Video:\n sam \n Takarir: \n OPLoverz"
+        "notes": "Video:\n sam \n Takarir: \n- Isekaisubs (Default)\n- Haruzora\n- Doronime"
     },
     {
         "malId": 18153,
@@ -2532,6 +2532,25 @@
         "notes": "Video:\n smol \n Takarir:\n Tiramisubs [NeoSubs]"
     },
     {
+        "malId": 35851,
+        "title": "Sayonara no Asa ni Yakusoku no Hana wo Kazarou",
+        "bestReleases": [
+            {
+                "name": "Aergia (JPBD Remux) + JA-Yuki"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[Maquia]",
+                "description": "VCB-Studio",
+                "downloadLinks": [
+                    "https://www.rilisangabut.my.id/api/raw/?path=/Maquia/%5BMaquia%5D%20Maquia%20-%20Sayonara%20no%20Asa%20ni%20Yakusoku%20no%20Hana%20wo%20Kazarou%20%5BBD%201080p%2010bit%20HEVC%20FLAC%5D%20%5B119D976B%5D.mkv"
+                ]
+            }
+        ],
+        "notes": "Takarir:\n- JA-Yuki (Edit) [Default]\n- JA-Yuki\n- Kopajasubs\n- AoiTenshi\n- JA (Jalsubs-Aiasubs)\n- Pucuk"
+    },
+    {
         "malId": 40403,
         "title": "Shin Sakura Taisen",
         "bestAlternatives": [
@@ -2961,7 +2980,8 @@
                     "https://drive.google.com/drive/folders/19ilDewU_PQ9Ep4NjYzWYAVt-3DIZEKYx?usp=sharing"
                 ]
             }
-        ]
+        ],
+        "notes": "Video:\nZagzad\nTakarir :\n- Koisuru"
     },
     {
         "malId": 35507,
