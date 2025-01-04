@@ -48,7 +48,7 @@
         "title": "Absolute Duo",
         "bestReleases": [
             {
-                "name": "KH + D-AnimeSub"
+                "name": "[=^_^=] / Yurasuka + D-AnimeSub"
             }
         ],
         "bestAlternatives": [
@@ -1625,6 +1625,20 @@
         "notes": "Takarir:\n Neo (Souki-Sub)"
     },
     {
+        "malId": 37349,
+        "title": "Goblin Slayer",
+        "bestAlternatives": [
+            {
+                "name": "[NeoSubs]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/10W6BClxU7MlORFw0rx3_exusZDv70kqu?usp=sharing"
+                ]
+            }
+        ],
+        "notes": "Takarir:\n NeoSubs (Delsubs)"
+    },
+    {
         "malId": 21273,
         "title": "Gochuumon wa Usagi Desuka",
         "bestReleases": [
@@ -1641,7 +1655,37 @@
                 ]
             }
         ],
-        "notes": "Season 1\nVideo :\nYousei-Raws\nTakarir :\n- Tiramisu\nSeason 2\nVideo :\nBeatrice-Raws\nTakarir :\n- Tiramisu"
+        "bestAlternatives": [
+            {
+                "name": "S1: [TiramiSubs]",
+                "description": "BD mix",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1NPr5BiuISa7aB5pbpgV0gQx3cFCtdu-f?usp=sharing"
+                ]
+            },
+            {
+                "name": "S2: [TiramiSubs]",
+                "description": "BD 1080p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1St0laW2AvMtzjiBykm85U5t6VWbfxD7D?usp=sharing"
+                ]
+            },
+            {
+                "name": "Sing for You: [Jalsubs]",
+                "description": "BD 1080p",
+                "downloadLinks": [
+                    "https://drive.google.com/file/d/1ra-zK3c3jMJN-rRt0yBaLJIP2S2bQFPz/view?usp=drive_link"
+                ]
+            },
+            {
+                "name": "Dear My Sister: [Tiramisu]",
+                "description": "BD 1080p",
+                "downloadLinks": [
+                    "https://drive.google.com/file/d/1E9nc9shnS1z5JpgQA6uWELtvrFVXVB9H/view?usp=drive_link"
+                ]
+            }
+        ],
+        "notes": "[pololer] \n Season 1\nVideo :\nYousei-Raws\nTakarir :\n- Tiramisu\nSeason 2\nVideo :\nBeatrice-Raws\nTakarir :\n- Tiramisu"
     },
     {
         "malId": 14175,
@@ -2766,10 +2810,13 @@
             {
                 "name": "[Entah]",
                 "description": "BD 1080p",
-                "downloadLinks": ["https://drive.google.com/file/d/1KAbDKl87FqgHn5B6E7Yy9LDQOK6HjrTC"]
+                "downloadLinks": [
+                    "https://drive.google.com/file/d/1KAbDKl87FqgHn5B6E7Yy9LDQOK6HjrTC",
+                    "https://sm2gr-my.sharepoint.com/:v:/g/personal/bagussatria_sm2gr_onmicrosoft_com/EWUKYBusgvlPhWNxnaXSH9MBtjRvfihByRoHFVFR15I8Dw"
+                ]
             }
         ],
-        "notes": "Video:\n Noiy \n Audio: \n - FLAC 5.1 (Default) \n FLAC 2.1 \nTakarir:\n - PhallSubs \n - PhallSubs (Signs & Songs) \n - Delima (Default) \n - Jal-Aia \n - AWSubs",
+        "notes": "Video:\n Noiy \n Audio: \n - FLAC 5.1 (Default) \n - FLAC 2.1 \nTakarir:\n - PhallSubs \n - PhallSubs (Signs & Songs) \n - Delima (Default) \n - Jal-Aia \n - AWSubs",
         "qualityComparisons": "https://slow.pics/c/Bdq38j4R"
     },
     {
