@@ -8,7 +8,7 @@ import { ReleaseLinks } from "@/components/ReleaseLinks";
 import { TextFormatter } from "@/components/TextFormatter";
 import Header from "@/components/Header";
 import { useAnimeData } from "@/hooks/useAnimeData";
-import { Calendar, Tv, Star } from "lucide-react";
+import { Calendar, Tv } from "lucide-react";
 
 interface PageProps {
     params: Promise<{
@@ -114,9 +114,12 @@ export default function Page(props: PageProps) {
                     <Card className="col-span-1" style={{ height: "fit-content" }}>
                         <div className="absolute z-10 top-0 left-0 right-0 bg-gradient-to-b from-black/90 to-transparent h-32 rounded-t-lg">
                             <CardHeader className="flex-col !items-start p-4">
-                                <p className="text-tiny text-white uppercase font-bold flex items-center gap-1">
-                                    <Star size={14} className="fill-white" />
-                                    {animeData.score}
+                                <p className="text-tiny text-white uppercase font-bold flex flex-wrap items-center gap-1">
+                                    {animeData.genres?.map(genre => (
+                                        <span key={genre.mal_id} className="bg-black/50 px-2 py-0.5 rounded">
+                                            {genre.name}
+                                        </span>
+                                    ))}
                                 </p>
                                 <h4 className="text-white font-medium text-large drop-shadow-lg">{animeData.title}</h4>
                             </CardHeader>

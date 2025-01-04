@@ -57,7 +57,10 @@ export interface AnimeData {
     producers: AnimeData[];
     licensors: AnimeData[];
     studios: AnimeData[];
-    genres: AnimeData[];
+    genres?: {
+        mal_id: number;
+        name: string;
+    }[];
     opening_themes: string[];
     ending_themes: string[];
     trailer_url: string | null;
