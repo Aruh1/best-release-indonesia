@@ -1345,26 +1345,14 @@
                 "downloadLinks": [
                     "https://drive.google.com/drive/folders/1XR5KCKqhRJDknXeJL8HJmT-sgK_gEzeH?usp=sharing"
                 ]
-            }
-        ],
-        "notes": "Takarir:\n Pustaka (Caramel x Iasubs (1-10), YA (11-13))"
-    },
-    {
-        "malId": 33047,
-        "title": "Fate/Extra: Last Encore",
-        "bestReleases": [
-            {
-                "name": "JPBD + [Monogatari]"
-            }
-        ],
-        "bestAlternatives": [
+            },
             {
                 "name": "[Monogatari]",
                 "description": "WEB 720p",
                 "downloadLinks": ["https://terabox.com/s/1YMZwuHuctT-9E9TWYVw8BQ"]
             }
         ],
-        "notes": "Takarir:\n IASubs-Caramel"
+        "notes": "Takarir:\n Monogatari (IASubs-Caramel), Pustaka (Caramel x Iasubs (1-10), YA (11-13))"
     },
     {
         "malId": 38084,
