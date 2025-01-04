@@ -1160,6 +1160,33 @@
         "notes": "Takarir:\n NeoSubs (Anime-BD (S1), Lolisekai (S2), Delsubs (S3))"
     },
     {
+        "malId": 34497,
+        "title": "Death March kara Hajimaru Isekai Kyousoukyoku",
+        "bestAlternatives": [
+            {
+                "name": "[NeoSubs]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1qiPXKhNNIyHseyT8tr5zNT-_zMz7vG8q?usp=sharing"
+                ]
+            }
+        ],
+        "notes": "Takarir:\n NeoSubs (Pucuk)"
+    },
+    {
+        "malId": 1535,
+        "title": "Death Note",
+        "bestAlternatives": [
+            {
+                "name": "[D-AnimeSub]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1oJoU_r6IqVVsuMxPgt6SRSh6LEgnyQ9r?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
         "malId": 33988,
         "title": "Demi-chan wa Kataritai",
         "bestAlternatives": [
@@ -1169,6 +1196,67 @@
                 "downloadLinks": [
                     "https://drive.google.com/drive/folders/0B2F1JfIOuTgNSVJlSFZWRnJRb0U?resourcekey=0-KZF_PRqp1yu0REz90lNXnw&usp=sharing",
                     "https://terabox.com/s/1G_-CMm5HIENjcUSTfvzN3Q"
+                ]
+            },
+            {
+                "name": "[NeoSubs]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1KIU1mOcQrrc1pplSCu0W-wXSPDmfr6mp?usp=sharing"
+                ]
+            }
+        ],
+        "notes": "Takarir:\n NeoSubs (KentutNeraka)"
+    },
+    {
+        "malId": 9379,
+        "title": "Denpa Onna to Seishun Otoko",
+        "bestAlternatives": [
+            {
+                "name": "[NBS-B]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1fjtSb1MAJbsA-GXaRSdy4zSjxZfsiTr-?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 1726,
+        "title": "Devil May Cry",
+        "bestAlternatives": [
+            {
+                "name": "[Desu Desu]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1UVIXdpMBj3NBM0LZJZykTKe274MlUxxv?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 16512,
+        "title": "Devil Survivor 2 The Animation",
+        "bestAlternatives": [
+            {
+                "name": "[NeoSubs]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1AOemXZs7etXw56CqdKlLo6sJJITuKa_j?usp=sharing"
+                ]
+            }
+        ],
+        "notes": "Takarir:\n NeoSubs (LuluSubs)"
+    },
+    {
+        "malId": 6746,
+        "title": "Durarara!!",
+        "bestAlternatives": [
+            {
+                "name": "[DDA]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1I4Mrw670zJ7VOphnRp9zuwLaRw_5qBbv?usp=sharing"
                 ]
             }
         ]
@@ -1212,8 +1300,29 @@
                 "name": "[Caramel]",
                 "description": "WEB 720p",
                 "downloadLinks": ["https://terabox.com/s/1jKW7OLB_HR2eImN811cTRQ"]
+            },
+            {
+                "name": "[D-AnimeSub]",
+                "description": "BD 1080p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1cH7Ce9HxC1qSlhX5PTPuiVM3xUkOlFCN?usp=sharing"
+                ]
             }
         ]
+    },
+    {
+        "malId": 33047,
+        "title": "Fate/Extra: Last Encore",
+        "bestAlternatives": [
+            {
+                "name": "[Pustaka]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1XR5KCKqhRJDknXeJL8HJmT-sgK_gEzeH?usp=sharing"
+                ]
+            }
+        ],
+        "notes": "Takarir:\n Pustaka (Caramel x Iasubs (1-10), YA (11-13))"
     },
     {
         "malId": 33047,
@@ -1245,7 +1354,101 @@
                 "name": "[Yukisubs]",
                 "description": "WEB 720p",
                 "downloadLinks": [
-                    "https://mygavilan-my.sharepoint.com/:f:/g/personal/yuki_fansub_my_gavilan_edu/Esb5hrBLRKlHivgWkqyTJF4B5oPAzLOR3KJrwD_i2S_tZg?e=CCuzvv"
+                    "https://mygavilan-my.sharepoint.com/:f:/g/personal/yuki_fansub_my_gavilan_edu/Esb5hrBLRKlHivgWkqyTJF4B5oPAzLOR3KJrwD_i2S_tZg?e=CCuzvv",
+                    "https://drive.google.com/drive/folders/1DscOHKv46X8iis2ASBOjrX17x2QxjxWM?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 12565,
+        "title": "Fate/Prototype",
+        "bestAlternatives": [
+            {
+                "name": "[AnimeSubIndo]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/file/d/1IkRZBVIgc7ta2QESfXkXZNhn-lad1tVD/view?usp=drive_link"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 10087,
+        "title": "Fate/Zero",
+        "bestAlternatives": [
+            {
+                "name": "S1: [Pantsubber]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1NR7odJDBi2eu9qbjvZp9GzXikz4hPpdc?usp=sharing"
+                ]
+            },
+            {
+                "name": "S2: [Pantsubber]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1WnWOG9M_uuSlR7N_guuBNTP50L1vCL4i?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 14829,
+        "title": "Fate/kaleid liner Prisma☆Illya",
+        "bestAlternatives": [
+            {
+                "name": "S1: [Pantsubber]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1HPmObeE4r0UEVbb6BhvbjhO9gsOvj29q?usp=sharing"
+                ]
+            },
+            {
+                "name": "S3: [Pantsubber]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1CbAjDTuLrKBjZoDKLffttHwj-CGF5yCo?usp=sharing"
+                ]
+            },
+            {
+                "name": "S4: [Moesubs]",
+                "description": "WEB 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1tCLhDjnVFC5ypHokrOpToPCHSfWt7Kxw?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 22297,
+        "title": "Fate/stay night: Unlimited Blade Works",
+        "bestAlternatives": [
+            {
+                "name": "S1: [Pantsubber]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1TBNhpqc4OKtRBTGw8oWE-GVWcX5KQ66w?usp=sharing"
+                ]
+            },
+            {
+                "name": "S2: [Pantsubber]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1L7PeyfdKLnuRJPM7s7VRVcPBnWmM6DJ1?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 31376,
+        "title": "Flying Witch",
+        "bestAlternatives": [
+            {
+                "name": "[Sora Iro]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/192IjXqfcS16aPGtrDU7iuoFoJnJbEL7j?usp=sharing"
                 ]
             }
         ]
@@ -1264,6 +1467,37 @@
                 "description": "BD 1080p",
                 "downloadLinks": [
                     "https://unpakacid-my.sharepoint.com/:v:/g/personal/craftjosie4095_unpak_ac_id/EchxMtKBMMJNmSEv9YVThxwBL0UEurXqocnLu4T_DN1rwQ?e=joqxK8&download=1"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 9367,
+        "title": "Freezing",
+        "bestAlternatives": [
+            {
+                "name": "S1: [NeoSubs]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1ykT1oczi6bdOjI26e0_Rlq6OX-MEzeMw?usp=sharing"
+                ]
+            },
+            {
+                "name": "S2: [NeoSubs]",
+                "description": "BD 1080p",
+                "downloadLinks": ["https://terabox.link/s/1I4yX3C-aSudETnQP6yshQg"]
+            }
+        ]
+    },
+    {
+        "malId": 71,
+        "title": "Full Metal Panic!",
+        "bestAlternatives": [
+            {
+                "name": "[D-AnimeSub]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1cvGPSDUM5ZBgvZJBZqt8Dw0wdoczhhOF?usp=sharing"
                 ]
             }
         ]
@@ -1303,6 +1537,34 @@
                 "downloadLinks": ["https://files.h4ru.my.id/1:/Semangat%20Neng%20Douki%20%5BBD%5D/"]
             }
         ]
+    },
+    {
+        "malId": 28907,
+        "title": "Gate",
+        "bestAlternatives": [
+            {
+                "name": "[NeoSubs]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1O39GdizaQoOp116x2ehmYCQdkZ2tZeQb?usp=sharing"
+                ]
+            }
+        ],
+        "notes": "Takarir:\n NeoSubs (Lokal-Pucuk)"
+    },
+    {
+        "malId": 23289,
+        "title": "Gekkan Shoujo Nozaki-kun",
+        "bestAlternatives": [
+            {
+                "name": "[Neo]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1rYQKAeVpX3Gme7_Rrfo50UTDYyeS3E4O?usp=sharing"
+                ]
+            }
+        ],
+        "notes": "Takarir:\n Neo (Souki-Sub)"
     },
     {
         "malId": 21273,
@@ -2699,6 +2961,26 @@
                 "downloadLinks": [
                     "https://drive.google.com/file/d/0B2F1JfIOuTgNenJuanFieW5IVTQ/view",
                     "https://terabox.com/s/14uGiZfHkLU9TSpyNcPs9ow"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 2924,
+        "title": "ef: A Tale of Memories.",
+        "bestAlternatives": [
+            {
+                "name": "S1: [IsengSubs]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1HzCAKj8kGh5wmeSpkco0Pk0yT87VcBW_?usp=sharing"
+                ]
+            },
+            {
+                "name": "S2: [Shiro]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1g4bBdb2-dvlCaeBZik1Qp94eikVD6x2x?usp=sharing"
                 ]
             }
         ]
