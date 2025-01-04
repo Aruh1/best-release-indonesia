@@ -1162,6 +1162,11 @@
     {
         "malId": 34497,
         "title": "Death March kara Hajimaru Isekai Kyousoukyoku",
+        "bestReleases": [
+            {
+                "name": "JPBD + NeoSubs"
+            }
+        ],
         "bestAlternatives": [
             {
                 "name": "[NeoSubs]",
@@ -1176,6 +1181,11 @@
     {
         "malId": 1535,
         "title": "Death Note",
+        "bestReleases": [
+            {
+                "name": "R2J DVD + D-AnimeSub"
+            }
+        ],
         "bestAlternatives": [
             {
                 "name": "[D-AnimeSub]",
@@ -1211,6 +1221,11 @@
     {
         "malId": 9379,
         "title": "Denpa Onna to Seishun Otoko",
+        "bestReleases": [
+            {
+                "name": "Yousei-raws + NBS-B"
+            }
+        ],
         "bestAlternatives": [
             {
                 "name": "[NBS-B]",
@@ -1251,6 +1266,11 @@
     {
         "malId": 6746,
         "title": "Durarara!!",
+        "bestReleases": [
+            {
+                "name": "JPBD / VCB + DDA"
+            }
+        ],
         "bestAlternatives": [
             {
                 "name": "[DDA]",
@@ -1313,6 +1333,11 @@
     {
         "malId": 33047,
         "title": "Fate/Extra: Last Encore",
+        "bestReleases": [
+            {
+                "name": "JPBD + Pustaka"
+            }
+        ],
         "bestAlternatives": [
             {
                 "name": "[Pustaka]",
@@ -1363,6 +1388,11 @@
     {
         "malId": 12565,
         "title": "Fate/Prototype",
+        "bestReleases": [
+            {
+                "name": "JPBD / Yousei-raws + KKC"
+            }
+        ],
         "bestAlternatives": [
             {
                 "name": "[AnimeSubIndo]",
@@ -1376,6 +1406,11 @@
     {
         "malId": 10087,
         "title": "Fate/Zero",
+        "bestReleases": [
+            {
+                "name": "Okay-Subs + Pantsubber"
+            }
+        ],
         "bestAlternatives": [
             {
                 "name": "S1: [Pantsubber]",
@@ -1396,6 +1431,11 @@
     {
         "malId": 14829,
         "title": "Fate/kaleid liner Prisma☆Illya",
+        "bestReleases": [
+            {
+                "name": "[=^_^=] + Pantsubber"
+            }
+        ],
         "bestAlternatives": [
             {
                 "name": "S1: [Pantsubber]",
@@ -1423,6 +1463,11 @@
     {
         "malId": 22297,
         "title": "Fate/stay night: Unlimited Blade Works",
+        "bestReleases": [
+            {
+                "name": "Beatrice-Raws + Pantsubber"
+            }
+        ],
         "bestAlternatives": [
             {
                 "name": "S1: [Pantsubber]",
@@ -1443,6 +1488,11 @@
     {
         "malId": 31376,
         "title": "Flying Witch",
+        "bestReleases": [
+            {
+                "name": "sergey_krs + Sora Iro"
+            }
+        ],
         "bestAlternatives": [
             {
                 "name": "[Sora Iro]",
@@ -1474,6 +1524,11 @@
     {
         "malId": 9367,
         "title": "Freezing",
+        "bestReleases": [
+            {
+                "name": "Yousei-raws (S1) / sergey_krs (2) + NeoSubs"
+            }
+        ],
         "bestAlternatives": [
             {
                 "name": "S1: [NeoSubs]",
@@ -1492,6 +1547,11 @@
     {
         "malId": 71,
         "title": "Full Metal Panic!",
+        "bestReleases": [
+            {
+                "name": "sam + D-AnimeSub"
+            }
+        ],
         "bestAlternatives": [
             {
                 "name": "[D-AnimeSub]",
@@ -1541,6 +1601,11 @@
     {
         "malId": 28907,
         "title": "Gate",
+        "bestReleases": [
+            {
+                "name": "sam + NeoSubs"
+            }
+        ],
         "bestAlternatives": [
             {
                 "name": "[NeoSubs]",
@@ -1555,6 +1620,11 @@
     {
         "malId": 23289,
         "title": "Gekkan Shoujo Nozaki-kun",
+        "bestReleases": [
+            {
+                "name": "E-HARO Raws + Neo"
+            }
+        ],
         "bestAlternatives": [
             {
                 "name": "[Neo]",
@@ -2968,6 +3038,11 @@
     {
         "malId": 2924,
         "title": "ef: A Tale of Memories.",
+        "bestReleases": [
+            {
+                "name": "ASO + IsengSubs, Shiro"
+            }
+        ],
         "bestAlternatives": [
             {
                 "name": "S1: [IsengSubs]",
