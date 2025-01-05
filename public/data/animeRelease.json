@@ -770,19 +770,6 @@
         ]
     },
     {
-        "malId": 33475,
-        "title": "Busou Shoujo Machiavellianism",
-        "bestAlternatives": [
-            {
-                "name": "[KW]",
-                "description": "BD 720p",
-                "downloadLinks": [
-                    "https://drive.google.com/drive/folders/1cM7SUnJOqEjm557_w8z6V_oSuHXkxkAI?usp=sharing"
-                ]
-            }
-        ]
-    },
-    {
         "malId": 1689,
         "title": "Byousoku 5 Centimeter",
         "bestReleases": [
@@ -1496,7 +1483,11 @@
         "title": "Fragtime",
         "bestReleases": [
             {
-                "name": "smol + Melody"
+                "name": "[pololer]",
+                "description": "smol",
+                "downloadLinks": [
+                    "https://drive.google.com/file/d/1aewvvDnh14HfANeAaGurMMGjKVNTnx0u/view?usp=drive_link"
+                ]
             }
         ],
         "bestAlternatives": [
