@@ -842,7 +842,7 @@
                 "name": "[AmpasWorks]",
                 "description": "BD 1080p",
                 "downloadLinks": [
-                    "https://drive.google.com/drive/folders/1pto23B7-a0caX1KsiY2mH0SYVNhs_QPK?usp=sharing"
+                    "https://drive.google.com/drive/folders/1qvDmjq-hrDI2QLxIl3z0ADDcCv_04Qpd?usp=sharing"
                 ]
             },
             {
@@ -852,8 +852,7 @@
                     "https://drive.google.com/drive/folders/1zVVcJVucVkNVh1yko-K3n1TcecEy6jE1?usp=sharing"
                 ]
             }
-        ],
-        "notes": "Takarir: \n PHP Works (Lokalsubs)"
+        ]
     },
     {
         "malId": 14741,
@@ -1838,6 +1837,29 @@
         "notes": "Takarir:\n NeoSubs (LuluSubs)"
     },
     {
+        "malId": 16,
+        "title": "Hachimitsu to Clover",
+        "bestReleases": [
+            {
+                "name": "EJF + ExLD"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "S1: [ExLD]",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1ZQfJq3CnGYC9LaG_DgqpZKnOJzDnR_lI?usp=sharing"
+                ]
+            },
+            {
+                "name": "S2: [ExLD]",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/13-xYhJE42DjnSRu-7il8qoAZ9n3zxGKh?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
         "malId": 14175,
         "title": "Hanasaku Iroha: Home Sweet Home",
         "bestReleases": [
@@ -2124,6 +2146,31 @@
         ]
     },
     {
+        "malId": 20853,
+        "title": "Hitsugi no Chaika",
+        "bestReleases": [
+            {
+                "name": "Serendipity + D-AnimeSub"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "S1: [D-AnimeSub]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1T2IYR74y_XMk2btKsCXZviCk6ev56PTM?usp=sharing"
+                ]
+            },
+            {
+                "name": "S2: [D-AnimeSub]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1kytLdzHREtcPTJhB-899bF7vIh8rukJ0?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
         "malId": 42897,
         "title": "Horimiya",
         "bestAlternatives": [
@@ -2131,6 +2178,24 @@
                 "name": "[Manga Neko]",
                 "description": "BD 1080p",
                 "downloadLinks": ["https://drive.google.com/drive/folders/1vnRdah4S_kH0kLvz9_DbptRfZ46c9rSI"]
+            }
+        ]
+    },
+    {
+        "malId": 9760,
+        "title": "Hoshi wo Ou Kodomo",
+        "bestReleases": [
+            {
+                "name": "JPBD + Sora Iro"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[Sora Iro]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/file/d/1WNE9daSEpso3kD1VaDPUKBcYXlSCl6q7/view?usp=drive_link"
+                ]
             }
         ]
     },
@@ -2169,6 +2234,43 @@
         ]
     },
     {
+        "malId": 31338,
+        "title": "Hundred",
+        "bestReleases": [
+            {
+                "name": "RASETSU + NeoSubs"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[NeoSubs]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1yyVKrtdayMOD1Hx_83INYCoU4FODyzus?usp=sharing",
+                    "https://terabox.link/s/16wi7Ct3GWw1XP8JxHFU6KQ"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 12189,
+        "title": "Hyouka",
+        "bestReleases": [
+            {
+                "name": "MTBB + Ani-BD"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[Ani-BD]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1R2qEsl1mqovTbx80XMC5fEkOfk_RyB3L?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
         "malId": 42361,
         "title": "Ijiranaide, Nagatoro-san",
         "bestAlternatives": [
@@ -2191,6 +2293,60 @@
         ]
     },
     {
+        "malId": 20457,
+        "title": "Inari, Konkon, Koi Iroha.",
+        "bestReleases": [
+            {
+                "name": "Kagura + Ani-BD"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[Ani-BD]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1WA2jYY3-181cMAQDXIUnWp0v_rnHN4RA?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 25159,
+        "title": "Inou-Battle wa Nichijou-kei no Naka de",
+        "bestReleases": [
+            {
+                "name": "Beatrice-Raws + D-AnimeSub"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[D-AnimeSub]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1G6hSU7cxVzdqSnE00i-ZUIhPxlDFyk0Q?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 17831,
+        "title": "Inu to Hasami wa Tsukaiyou",
+        "bestReleases": [
+            {
+                "name": "JPBD + D-AnimeSub"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[D-AnimeSub]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1IsbNeQL5CQ7oUfxCc1cDTUvBCvz6sS_X?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
         "malId": 37744,
         "title": "Isekai Cheat Magician",
         "bestAlternatives": [
@@ -2203,6 +2359,55 @@
         "notes": "Takarir:\n Caramel-Ginsub"
     },
     {
+        "malId": 37210,
+        "title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
+        "bestReleases": [
+            {
+                "name": "JPBD + Hayko-VW"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "S1: [Hayko-VW]",
+                "description": "BD 1080p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1UUC4lqmXB3Vvhwqcjg3H0qteNOijXAWH?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 35203,
+        "title": "Isekai wa Smartphone to Tomo ni.",
+        "bestReleases": [
+            {
+                "name": "Beatrice-Raws + HarunaSubs"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "S1: [HarunaSubs]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1XlFiEyFGREs0CSAACSGsS8XBesw_SHYW?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 25429,
+        "title": "Isuca",
+        "bestAlternatives": [
+            {
+                "name": "[Pantsubber]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1Nt5hdbAT5QO5KwlnsJTAKX1CF2rxElt0?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
         "malId": 36220,
         "title": "Itsudatte Bokura no Koi wa 10 cm Datta.",
         "bestReleases": [
@@ -2213,10 +2418,52 @@
         "bestAlternatives": [
             {
                 "name": "[Caramel]",
-                "description": "BD 720p (Butuh di-rename)",
-                "downloadLinks": ["https://terabox.com/s/12nw5BwhtaFoO-V1HKjADzg"]
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://terabox.com/s/12nw5BwhtaFoO-V1HKjADzg",
+                    "https://drive.google.com/drive/folders/1R-xYkl-VaB7O9h0qXXSrBZhAaT8_LSw4?usp=sharing"
+                ]
             }
         ]
+    },
+    {
+        "malId": 29785,
+        "title": "Jitsu wa Watashi wa",
+        "bestAlternatives": [
+            {
+                "name": "[Neo]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1GIvMA7SdPCo-ftXOom14cmszMIQyxd_i?usp=sharing"
+                ]
+            }
+        ],
+        "notes": "Takarir:\n Neo (SubsKun Zen)"
+    },
+    {
+        "malId": 12413,
+        "title": "Jormungand",
+        "bestReleases": [
+            {
+                "name": "JPBD + Neo"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "S1: [Neo]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1aot8voLdcmv4PA4V6z6K5Zw-Nt6lR1Mp?usp=sharing",
+                    "https://terabox.link/s/1d1PN3_8I0LtqWRiMOe4h7w"
+                ]
+            },
+            {
+                "name": "S2: [Neo]",
+                "description": "BD 720p",
+                "downloadLinks": ["https://terabox.link/s/13RoXoygsZssBczxXyPGZtA"]
+            }
+        ],
+        "notes": "Takarir:\n Neo (Souki-Hasshou)"
     },
     {
         "malId": 38619,
@@ -2241,9 +2488,25 @@
         ],
         "bestAlternatives": [
             {
-                "name": "[KyoAni]",
+                "name": "S1: [KyoAni]",
                 "description": "BD 720p",
-                "downloadLinks": ["https://terabox.com/s/1yMAncO8nDbhmsQ4KAdvHJA"]
+                "downloadLinks": [
+                    "https://terabox.com/s/1yMAncO8nDbhmsQ4KAdvHJA",
+                    "https://drive.google.com/drive/folders/1sSFlXQ1t2xRs8SyyXTaLpGf5QPWQKWkE?usp=sharing"
+                ]
+            },
+            {
+                "name": "S2: [HTT]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/124hL-tmnlp0BEkQQlcxmKuQNeyDegf-K?usp=sharing"
+                ]
+            },
+            {
+                "name": "Movie: [KANINDO]",
+                "downloadLinks": [
+                    "https://drive.google.com/file/d/19daqabExHjQl9ozaBCkBIbVloYR_MArs/view?usp=drive_link"
+                ]
             }
         ],
         "notes": "Takarir:\n KyoAni (Caramel-MangaNeko-NeoSubs-Zensub)"
@@ -2260,6 +2523,19 @@
             }
         ],
         "notes": "Video :\nsergey_krs\nTakarir :\n- D-AnimeSub"
+    },
+    {
+        "malId": 21511,
+        "title": "Kantai Collection",
+        "bestAlternatives": [
+            {
+                "name": "S1: [D-AnimeSub]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1zMwVlD0p_MymlEKMRUOZf52Rl9CgZn22?usp=sharing"
+                ]
+            }
+        ]
     },
     {
         "malId": 39326,
