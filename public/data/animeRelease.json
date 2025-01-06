@@ -1616,6 +1616,49 @@
         "notes": "Takarir:\n Neo (Souki-Sub)"
     },
     {
+        "malId": 34213,
+        "title": "Getsuyoubi no Tawawa",
+        "bestReleases": [
+            {
+                "name": "Beatrice-Raws + Lokalsubs"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[Lokalsubs]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/10W6BClxU7MlORFw0rx3_exusZDv70kqu?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 14131,
+        "title": "Girls & Panzer",
+        "bestReleases": [
+            {
+                "name": "Beatrice-Raws + VxSubs"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "S1: [VxSubs]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/10W6BClxU7MlORFw0rx3_exusZDv70kqu?usp=sharing"
+                ]
+            },
+            {
+                "name": "Movie: [VxSubs]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/file/d/1yZhZm8_4PJlvJqwwPL9KgHUmr_VfJZhZ/view?usp=drive_link"
+                ]
+            }
+        ]
+    },
+    {
         "malId": 37349,
         "title": "Goblin Slayer",
         "bestAlternatives": [
@@ -1679,6 +1722,122 @@
         "notes": "[pololer] \n Season 1\nVideo :\nYousei-Raws\nTakarir :\n- Tiramisu\nSeason 2\nVideo :\nBeatrice-Raws\nTakarir :\n- Tiramisu"
     },
     {
+        "malId": 17895,
+        "title": "Golden Time",
+        "bestReleases": [
+            {
+                "name": "CyC + Neo"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[Neo]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1sAMDH1PtFJQ_3QcwpmvXIJZ2DjgBDt-k?usp=sharing"
+                ]
+            }
+        ],
+        "notes": "Takarir:\n Neo (Yuuki)"
+    },
+    {
+        "malId": 8425,
+        "title": "Gosick",
+        "bestReleases": [
+            {
+                "name": "JPBD + NeoSubs"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[NeoSubs]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1QhLuI4Q7mMLePNdiIDQbsHOrYHXHySvQ?usp=sharing",
+                    "https://terabox.link/s/14Z6zfQ1nQ1Z7tYASxl7InA"
+                ]
+            }
+        ],
+        "notes": "Takarir:\n NeoSubs (Se~No!! Fansubs)"
+    },
+    {
+        "malId": 38101,
+        "title": "Gotoubun no Hanayome",
+        "bestAlternatives": [
+            {
+                "name": "[Nge-Sub], [Hayko-VW]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1HL4YwE4WLmJ9IWWjgkz0pa56N0bsRHau?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 245,
+        "title": "Great Teacher Onizuka",
+        "bestReleases": [
+            {
+                "name": "Godim + Animeindo"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[Animeindo]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1j0Sz_lTpT7dd057MOwEMpWc0uBzsuE86?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 17729,
+        "title": "Grisaia no Kajitsu",
+        "bestAlternatives": [
+            {
+                "name": "S1: [Pantsubber]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/11E1WYyCLRGQwmdGsFBQ8TYXOU93bMgrk?usp=sharing"
+                ]
+            },
+            {
+                "name": "Special: [Pantsubber]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1xe65cVkVZSturxC_rxWCKjlzA2B8SLFU?usp=sharing"
+                ]
+            },
+            {
+                "name": "S2: [Pantsubber]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1YkIg017TSnnekrMsC6EqstGsxbO50xNq?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 10793,
+        "title": "Guilty Crown",
+        "bestReleases": [
+            {
+                "name": "SCY + NeoSubs"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[NeoSubs]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1ijdyMYvlG2Ew8XWIRJ-JtMMYt5A6Qwt7?usp=sharing"
+                ]
+            }
+        ],
+        "notes": "Takarir:\n NeoSubs (LuluSubs)"
+    },
+    {
         "malId": 14175,
         "title": "Hanasaku Iroha: Home Sweet Home",
         "bestReleases": [
@@ -1690,6 +1849,97 @@
             }
         ],
         "notes": "Hanasaku Iroha - Home Sweet Home\nVideo :\nYousei-raws\nTakarir :\n- Wire-subs\n- Jal x AIA\n- Zensub"
+    },
+    {
+        "malId": 37259,
+        "title": "Hanebado!",
+        "bestReleases": [
+            {
+                "name": "Raws-Maji + Hayko-VW"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[Hayko-VW]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1MVRD2mEr8Mw3kK1fOaqD1WYuqOBExqLB?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 37517,
+        "title": "Happy Sugar Life",
+        "bestReleases": [
+            {
+                "name": "smol + Haruzora"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[Haruzora]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1XQ7vPK3dLoM71Z0TjrsgO36rHuQMFRaX?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 15809,
+        "title": "Hataraku Maou-sama!",
+        "bestReleases": [
+            {
+                "name": "sam + Anti-Jalanan"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "S1: [Anti-Jalanan]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1_tsMRKyLFpi7yihW6deapgvMmVFpa9qA?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 27829,
+        "title": "Heavy Object",
+        "bestReleases": [
+            {
+                "name": "Beatrice-Raws + Neo"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[Neo]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1odx4WF5Caf6_VqqLQa-NjXeJ1oi5cBUL?usp=sharing",
+                    "https://terabox.link/s/1NB3xC5_No792C6dldOkSUQ"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 15225,
+        "title": "Hentai Ouji to Warawanai Neko.",
+        "bestReleases": [
+            {
+                "name": "Yousei-raws + TiramiSubs"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[TiramiSubs]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/14i5Pl9thXFOb4dzD8qMnBoR3LQveNlKs?usp=sharing"
+                ]
+            }
+        ]
     },
     {
         "malId": 27989,
@@ -1707,13 +1957,82 @@
             },
             {
                 "name": "S2: [Haruzora]",
-                "downloadLinks": ["https://files.h4ru.my.id/1:/Hibike!%20Euphonium%202%20[BD]/1080p/"]
+                "description": "BD 1080p",
+                "downloadLinks": [
+                    "https://files.h4ru.my.id/1:/Hibike!%20Euphonium%202%20[BD]/1080p/",
+                    "https://drive.google.com/drive/folders/1591cgBVmROztPxlV78gZFkgNNzYRSIgm?usp=sharing"
+                ]
+            },
+            {
+                "name": "Movie: [Haruzora]",
+                "description": "BD 1080p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1DMNxC5_HnhhrkMoB6OyY6Yl_JD0xAPnm?usp=sharing"
+                ]
             },
             {
                 "name": "S3: [Haruzora]",
                 "downloadLinks": ["https://files.h4ru.my.id/1:/Hibike!%20Euphonium%203/"]
             }
         ]
+    },
+    {
+        "malId": 8630,
+        "title": "Hidan no Aria",
+        "bestReleases": [
+            {
+                "name": "Yousei-Raws + MPF"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[MPF]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1sx4Wv4groALe43Zf_Mc9xO1kh2gRyVsY?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 11617,
+        "title": "High School DxD",
+        "bestReleases": [
+            {
+                "name": "Beatrice-Raws + PeKa (S1), FFF + Neo (S2), sergey_krs + D-AnimeSub (S3), Beatrice-Raws + Kawaiidaro (S4)"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "S1: [PeKa]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1MI3AXVifeHQlc7XEx2vEobmHROB-pnvr?usp=sharing"
+                ]
+            },
+            {
+                "name": "S2: [Neo]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1DW1hNaSoe0K8tXoWihINesJaGKw4-vHn?usp=sharing"
+                ]
+            },
+            {
+                "name": "S3: [D-AnimeSub]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1CnAf_jufxngcOAitD9hkurrIoLOcwCfs?usp=sharing"
+                ]
+            },
+            {
+                "name": "S4: [Kawaiidaro]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1PUOTUB2Afb41WdT6OB5e9OfYXrgRIt2E?usp=sharing"
+                ]
+            }
+        ],
+        "notes": "Takarir:\n Neo (SubDesu)"
     },
     {
         "malId": 31500,
@@ -1727,6 +2046,68 @@
             }
         ],
         "notes": "Video:\n Beatrice-Raws \n Takarir:\n Tiramisubs (edited)"
+    },
+    {
+        "malId": 21877,
+        "title": "High Score Girl",
+        "bestReleases": [
+            {
+                "name": "Seicher + Wibusubs + TTOD"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "S1: [Wibusubs], S2: [TTOD]",
+                "description": "WEB",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1XfIioCBHe7WRU9DjRoSnonR4GAcR8GYd?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 8074,
+        "title": "Highschool of the Dead",
+        "bestReleases": [
+            {
+                "name": "SCY + Moesubs"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[Moesubs]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/15jjAgSd2ZHNCxOvcz9E4xSbg9FPnZvO8?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 28825,
+        "title": "Himouto! Umaru-chan",
+        "bestReleases": [
+            {
+                "name": "smol + Pantsubber + Durandal"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "S1: [Pantsubber]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1k-mkq_icruV_QkBzMkeG1Qk6sdTlOUWC?usp=sharing"
+                ]
+            },
+            {
+                "name": "S2: [pololer]",
+                "description": "BD 1080p",
+                "downloadLinks": [
+                    "https://www.pololer.web.id/0:/[pololer]%20Himouto!%20Umaru-chan%20R%20(BDRip%201920x1080%20HEVC%20FLAC)/"
+                ]
+            }
+        ],
+        "notes": "Takarir:\n pololer (Durandal)"
     },
     {
         "malId": 34834,
