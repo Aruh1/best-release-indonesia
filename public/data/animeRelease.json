@@ -2512,6 +2512,54 @@
         "notes": "Takarir:\n KyoAni (Caramel-MangaNeko-NeoSubs-Zensub)"
     },
     {
+        "malId": 7054,
+        "title": "Kaichou wa Maid-sama!",
+        "bestAlternatives": [
+            {
+                "name": "[Meganesub]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1Euu8UCWXBnigKy7oN1IxQNiUURbM0G4D?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 8525,
+        "title": "Kami nomi zo Shiru Sekai",
+        "bestAlternatives": [
+            {
+                "name": "S1: [Souki-Hasshou]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1ix4ig6FWy2VUYENmF6mSzEONvyO928Tf?usp=sharing"
+                ]
+            },
+            {
+                "name": "S2: [Souki-Hasshou]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1v5sG7VaAAJWh6uS8pvGkEuiE_Q0rsSJc?usp=sharing"
+                ]
+            },
+            {
+                "name": "S3: [NeoSubs]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1__F7WjsGTeVoscFvPX3_nnYN9oCN6-Vu?usp=sharing"
+                ]
+            },
+            {
+                "name": "OVA: [?]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1rzeqBF7ASHeZ_UWGTqoT-mDgkL_uyCe8?usp=sharing"
+                ]
+            }
+        ],
+        "notes": "Takarir:\n NeoSubs (Souki-Hasshou)"
+    },
+    {
         "malId": 10568,
         "title": "Kamisama no Memochou",
         "bestReleases": [
@@ -2525,6 +2573,26 @@
         "notes": "Video :\nsergey_krs\nTakarir :\n- D-AnimeSub"
     },
     {
+        "malId": 32491,
+        "title": "Kanojo to Kanojo no Neko",
+        "bestAlternatives": [
+            {
+                "name": "[Ankoku-Jalsubs]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/file/d/1VP-J4AmNObUKeSVNhXc8DyhucHrPhljM/view?usp=drive_link"
+                ]
+            },
+            {
+                "name": "[Anti]",
+                "description": "BD 1080p",
+                "downloadLinks": [
+                    "https://drive.google.com/file/d/1TNUKLRXE-fMIEPATcO7DDUadhu6Ibja6/view?usp=drive_link"
+                ]
+            }
+        ]
+    },
+    {
         "malId": 21511,
         "title": "Kantai Collection",
         "bestAlternatives": [
@@ -2533,6 +2601,13 @@
                 "description": "BD 720p",
                 "downloadLinks": [
                     "https://drive.google.com/drive/folders/1zMwVlD0p_MymlEKMRUOZf52Rl9CgZn22?usp=sharing"
+                ]
+            },
+            {
+                "name": "Movie: [D-AnimeSub]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/file/d/1SEpl-Bousdf7qwD7-LsjCTpUI7n9VpKX/view?usp=drive_link"
                 ]
             }
         ]
@@ -3084,6 +3159,25 @@
         "notes": "Video:\n Yousei-raws \n Takarir:\n Moesubs"
     },
     {
+        "malId": 43007,
+        "title": "Osananajimi ga Zettai ni Makenai Love Comedy",
+        "bestReleases": [
+            {
+                "name": "Yurasuka + Zensub"
+            }
+        ],
+        "bestAlternatives": [
+            {
+                "name": "[pololer]",
+                "description": "BD 1080p",
+                "downloadLinks": [
+                    "https://www.pololer.web.id/0:/%5Bpololer%5D%20Osananajimi%20ga%20Zettai%20ni%20Makenai%20Love%20Comedy%20%28Osamake%29%20%28BDRip%201080p%20x264%2010bit%20FLAC%29/"
+                ]
+            }
+        ],
+        "notes": "Takarir:\n Zensub (edited)"
+    },
+    {
         "malId": 28617,
         "title": "Punch Line",
         "bestAlternatives": [
@@ -3262,6 +3356,20 @@
             }
         ],
         "notes": "Video:\n sam \n Takarir:\n Hinose & Ankoku (D-A)"
+    },
+    {
+        "malId": 40586,
+        "title": "Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita",
+        "bestAlternatives": [
+            {
+                "name": "[pololer]",
+                "description": "BD 1080p",
+                "downloadLinks": [
+                    "https://www.pololer.web.id/0:/%5Bpololer%5D%20Osananajimi%20ga%20Zettai%20ni%20Makenai%20Love%20Comedy%20%28Osamake%29%20%28BDRip%201080p%20x264%2010bit%20FLAC%29/"
+                ]
+            }
+        ],
+        "notes": "Takarir:\n AmeAgare"
     },
     {
         "malId": 39456,
