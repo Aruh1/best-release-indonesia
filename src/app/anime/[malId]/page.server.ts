@@ -11,7 +11,7 @@ export async function generateMetadata({ params }: { params: { malId: string } }
         const animeData = await animeDataRes.json();
 
         // Fetch release data
-        const releaseDataRes = await fetch("http://localhost:3000/data/animeRelease.json");
+        const releaseDataRes = await fetch("/data/animeRelease.json");
         const releaseData = await releaseDataRes.json();
         const release = releaseData.find((r: AnimeRelease) => r.malId === malId);
 
