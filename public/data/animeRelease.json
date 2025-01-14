@@ -596,7 +596,7 @@
                 "name": "[Sora Iro]",
                 "description": "BD 720p",
                 "downloadLinks": [
-                    "https://drive.google.com/drive/folders/13JfNLv-1413xNMtiZMAOY-Mtq8ePOFoG?usp=drive_link"
+                    "https://drive.google.com/drive/folders/19_rEKSHIUWyI0U08B6fcpin1w3TZ3Fnd?usp=sharing"
                 ]
             }
         ]
@@ -2570,6 +2570,15 @@
                 ]
             }
         ],
+        "bestAlternatives": [
+            {
+                "name": "[NeoSubs]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1vmF9AIW38_Wu2dEwEopVlBpSB2cP3mLM?usp=sharing"
+                ]
+            }
+        ],
         "notes": "Video :\nsergey_krs\nTakarir :\n- D-AnimeSub"
     },
     {
@@ -2613,6 +2622,31 @@
         ]
     },
     {
+        "malId": 35860,
+        "title": "Karakai Jouzu no Takagi-san",
+        "bestAlternatives": [
+            {
+                "name": "S1: [AIA]",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/19LvA1FnbBv3Nm3iBXiSr5PrdIJ5acSIp?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 6594,
+        "title": "Katanagatari",
+        "bestAlternatives": [
+            {
+                "name": "[Souki-Hasshou]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/13Mym6GMvW13b8DyzDBbYbY5RrfNoHrXH?usp=sharing"
+                ]
+            }
+        ]
+    },
+    {
         "malId": 39326,
         "title": "Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?",
         "bestAlternatives": [
@@ -2620,6 +2654,60 @@
                 "name": "[Caramel]",
                 "description": "BD 720p",
                 "downloadLinks": ["https://terabox.com/s/197U7anbG2VMRWbWuY5v9aA"]
+            }
+        ]
+    },
+    {
+        "malId": 24439,
+        "title": "Kekkai Sensen",
+        "bestAlternatives": [
+            {
+                "name": "S1: [Zensub-L]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/19tJAA-x1vfj35JJ5ivFlAJBXMu1epGtV?usp=drive_link"
+                ]
+            },
+            {
+                "name": "S2: [Zensub-L]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1TcqmQGnFoYW1OH2jsAGeJDi2udW8FTuT?usp=drive_link"
+                ]
+            }
+        ]
+    },
+    {
+        "malId": 17247,
+        "title": "Kikou Shoujo wa Kizutsukanai",
+        "bestAlternatives": [
+            {
+                "name": "[NeoSubs]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/14glqe9FlHU6xKRINTj6j8KQExzrdmrze?usp=drive_link"
+                ]
+            }
+        ],
+        "notes": "Takarir: \n NeoSubs (ShiroSubs)"
+    },
+    {
+        "malId": 6045,
+        "title": "Kimi ni Todoke",
+        "bestAlternatives": [
+            {
+                "name": "S1: [Lulu]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/1Bs-1VO0MryRx9v5Wc_kFGp021eynAvoZ?usp=drive_link"
+                ]
+            },
+            {
+                "name": "S2: [TGW]",
+                "description": "BD 720p",
+                "downloadLinks": [
+                    "https://drive.google.com/drive/folders/10fJXj5jMuKZ-lC_wmgqW7L7dWaBAAZRy?usp=drive_link"
+                ]
             }
         ]
     },
