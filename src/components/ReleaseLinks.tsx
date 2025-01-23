@@ -1,6 +1,6 @@
 "use client";
 import React from "react";
-import { Link } from "@nextui-org/react";
+import { Link } from "@heroui/react";
 import { ExternalLink } from "lucide-react";
 
 export const ReleaseLinks: React.FC<{ links: string | string[] }> = ({ links }) => {

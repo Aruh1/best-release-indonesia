@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useMemo } from "react";
-import { Table, TableHeader, TableBody, TableColumn, TableRow, TableCell, Link } from "@nextui-org/react";
+import { Table, TableHeader, TableBody, TableColumn, TableRow, TableCell, Link } from "@heroui/react";
 import { SearchBar } from "./components/SearchBar";
 import { LoadingSpinner } from "./components/LoadingSpinner";
 import { useAnimeData } from "./hooks/useAnimeData";

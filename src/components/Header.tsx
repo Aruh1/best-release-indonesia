@@ -2,7 +2,7 @@
 
 import React from "react";
 import { SiGithub } from "react-icons/si";
-import { Button } from "@nextui-org/react";
+import { Button } from "@heroui/react";
 import { FaDiscord, FaHome, FaDatabase, FaQuestionCircle, FaChartBar } from "react-icons/fa";
 import ThemeToggle from "./ThemeToggle";
 import Link from "next/link";
