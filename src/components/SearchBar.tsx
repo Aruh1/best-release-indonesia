@@ -1,6 +1,6 @@
 "use client";
 import React from "react";
-import { Input, Checkbox } from "@nextui-org/react";
+import { Input, Checkbox } from "@heroui/react";
 import { Search } from "lucide-react";
 
 interface SearchBarProps {

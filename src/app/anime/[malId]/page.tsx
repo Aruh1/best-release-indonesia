@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useMemo, use } from "react";
-import { Card, CardBody, Link, Divider, Spinner, CardHeader, Image } from "@nextui-org/react";
+import { Card, CardBody, Link, Divider, Spinner, CardHeader, Image } from "@heroui/react";
 import type { AnimeRelease } from "@/types";
 import { ReleaseSection } from "@/components/ReleaseSection";
 import { ReleaseLinks } from "@/components/ReleaseLinks";

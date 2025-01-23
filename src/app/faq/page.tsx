@@ -1,6 +1,6 @@
 import React from "react";
 import Header from "@/components/Header";
-import { Card, CardBody } from "@nextui-org/react";
+import { Card, CardBody } from "@heroui/react";
 
 const FaqPage = () => {
     const faqItems = [

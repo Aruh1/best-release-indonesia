@@ -13,7 +13,7 @@ import {
     Link,
     Spinner,
     Card
-} from "@nextui-org/react";
+} from "@heroui/react";
 
 const ReleaseStatic = () => {
     const [releases, setReleases] = useState<AnimeRelease[]>([]);
