@@ -5,6 +5,7 @@
     "scripts": {
         "update-cache": "tsx src/hooks/fetchAnimeData.ts",
         "dev": "NODE_OPTIONS='--inspect' npm run update-cache && next dev",
+        "scan": "NODE_OPTIONS='--inspect' npm run update-cache && next dev & npx react-scan@latest localhost:3000",
         "build": "npm run update-cache && next build",
         "start": "next start",
         "lint": "next lint",

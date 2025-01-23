@@ -3,17 +3,7 @@
 import React, { useEffect, useState } from "react";
 import { AnimeRelease, Release } from "@/types";
 import { useAnimeData } from "@/hooks/useAnimeData";
-import {
-    TableBody,
-    TableCell,
-    TableColumn,
-    TableHeader,
-    TableRow,
-    Table,
-    Link,
-    Spinner,
-    Card
-} from "@heroui/react";
+import { TableBody, TableCell, TableColumn, TableHeader, TableRow, Table, Link, Spinner, Card } from "@heroui/react";
 
 const ReleaseStatic = () => {
     const [releases, setReleases] = useState<AnimeRelease[]>([]);
