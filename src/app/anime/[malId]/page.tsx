@@ -9,6 +9,7 @@ import { TextFormatter } from "@/components/TextFormatter";
 import Header from "@/components/Header";
 import { useAnimeData } from "@/hooks/useAnimeData";
 import { Calendar, Tv } from "lucide-react";
+import NotFound from "@/app/not-found";
 
 interface PageProps {
     params: Promise<{
@@ -95,7 +96,7 @@ export default function Page(props: PageProps) {
     }, [release, animeData]);
 
     if (!isValidMalId) {
-        return <div>Error: Invalid malId</div>;
+        return <NotFound />; // Render NotFound component if malId is not valid
     }
 
     if (!animeData || !release) {
