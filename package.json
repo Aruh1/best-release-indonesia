@@ -14,7 +14,7 @@
         "format-db": "python sorting_data.py && prettier --write ."
     },
     "dependencies": {
-        "@heroui/react": "2.7.2",
+        "@heroui/react": "2.7.8",
         "lodash.debounce": "^4.0.8",
         "lucide-react": "^0.475.0",
         "next": "15.1.7",
