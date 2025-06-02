@@ -8,6 +8,9 @@ import ThemeToggle from "./ThemeToggle";
 import Link from "next/link";
 
 const Header = () => {
+    const commitHash = process.env.NEXT_PUBLIC_COMMIT_HASH || "development";
+    const commitUrl = `https://github.com/Aruh1/best-release-indonesia/commit/${commitHash}`;
+
     return (
         <header className="w-full border-b border-divider">
             <div className="container mx-auto px-4 py-3 flex flex-col sm:flex-row justify-between items-center gap-4">
@@ -64,6 +67,9 @@ const Header = () => {
                     >
                         <SiGithub size={20} />
                     </Button>
+                    <Link href={commitUrl} target="_blank" rel="noopener noreferrer" className="text-xs opacity-50">
+                        [{commitHash}]
+                    </Link>
                 </div>
             </div>
         </header>
