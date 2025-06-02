@@ -27,7 +27,7 @@ const FaqPage = () => {
         {
             title: "Apa teknologi yang digunakan untuk website ini?",
             content:
-                "Website ini dibangun menggunakan React, Next.js, dan NextUI. Untuk API, kami menggunakan Jikan API (Unofficial MyAnimeList) untuk mengambil data seperti judul asli, judul dalam bahasa Inggris, dan poster anime."
+                "Website ini dibangun menggunakan React, Next.js, dan HeroUI. Untuk API, kami menggunakan Jikan API (Unofficial MyAnimeList) untuk mengambil data seperti judul asli, judul dalam bahasa Inggris, dan poster anime."
         },
         {
             title: "Bagaimana cara menentukan rilisan 'terbaik'?",
