@@ -3,7 +3,7 @@
     "version": "0.1.0",
     "private": true,
     "scripts": {
-        "update-cache": "tsx src/hooks/fetchAnimeData.ts",
+        "update-cache": "tsx src/hooks/fetchAnimeData.ts && tsx src/hooks/generate-version.ts",
         "dev": "NODE_OPTIONS='--inspect' npm run update-cache && next dev",
         "scan": "NODE_OPTIONS='--inspect' npm run update-cache && next dev & npx react-scan@latest localhost:3000",
         "build": "npm run update-cache && next build",

@@ -1,20 +1,15 @@
 "use client";
-
-import React, { useEffect, useState } from "react";
+import React from "react";
 import { SiGithub } from "react-icons/si";
 import { Button } from "@heroui/react";
 import { FaDiscord, FaHome, FaDatabase, FaQuestionCircle, FaChartBar } from "react-icons/fa";
 import ThemeToggle from "./ThemeToggle";
 import Link from "next/link";
-import { getGitInfo } from "@/utils/git";
+import { COMMIT_HASH } from "@/lib/version";
+
+const commitUrl = "https://github.com/Aruh1/best-release-indonesia/commit/" + COMMIT_HASH;
 
 const Header = () => {
-    const [gitInfo, setGitInfo] = useState({ commitHash: "", commitUrl: "" });
-
-    useEffect(() => {
-        getGitInfo().then(setGitInfo);
-    }, []);
-
     return (
         <header className="w-full border-b border-divider">
             <div className="container mx-auto px-4 py-3 flex flex-col sm:flex-row justify-between items-center gap-4">
@@ -71,13 +66,8 @@ const Header = () => {
                     >
                         <SiGithub size={20} />
                     </Button>
-                    <Link
-                        href={gitInfo.commitUrl}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="text-xs opacity-50"
-                    >
-                        [{gitInfo.commitHash}]
+                    <Link href={commitUrl} target="_blank" rel="noopener noreferrer" className="text-xs opacity-50">
+                        [{COMMIT_HASH}]
                     </Link>
                 </div>
             </div>

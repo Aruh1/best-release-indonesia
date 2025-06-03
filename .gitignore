@@ -4,6 +4,8 @@
 public/data/cache/
 public/data/cache/*
 !public/data/cache/.gitkeep
+# Ignore git version
+src/lib/version.ts
 
 # dependencies
 /node_modules
