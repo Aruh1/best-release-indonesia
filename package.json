@@ -15,6 +15,7 @@
     },
     "dependencies": {
         "@heroui/react": "^2.7.9",
+        "child_process": "^1.0.2",
         "framer-motion": "^12.15.0",
         "lodash.debounce": "^4.0.8",
         "lucide-react": "^0.511.0",
