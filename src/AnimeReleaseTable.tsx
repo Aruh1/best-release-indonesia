@@ -123,7 +123,7 @@ const AnimeReleaseTable: React.FC = () => {
                 </TableRow>
             );
         });
-    }, [paginationData.paginatedReleases, animeDataCache]);
+    }, [paginationData.paginatedReleases, animeDataCache, router]);
 
     if (isLoading && sortedReleases.length === 0) {
         return <LoadingSpinner status={loadingStatus} />;
