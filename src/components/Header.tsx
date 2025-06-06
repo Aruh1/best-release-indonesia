@@ -5,8 +5,8 @@ import { Button } from "@heroui/react";
 import { FaDiscord, FaHome, FaDatabase, FaQuestionCircle, FaChartBar } from "react-icons/fa";
 import ThemeToggle from "./ThemeToggle";
 import Link from "next/link";
-import { COMMIT_HASH } from "@/lib/version";
 
+const COMMIT_HASH = process.env.NEXT_PUBLIC_COMMIT_HASH || "development";
 const commitUrl = "https://github.com/Aruh1/best-release-indonesia/commit/" + COMMIT_HASH;
 
 const Header = () => {

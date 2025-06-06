@@ -1,5 +1,15 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {
+import { execSync as execSyncChild } from "child_process";
+import type { NextConfig } from "next";
+
+const getGitCommitHash = () => {
+    try {
+        return execSyncChild("git rev-parse --short HEAD").toString().trim();
+    } catch (e) {
+        return "unknown";
+    }
+};
+
+const nextConfig: NextConfig = {
     images: {
         remotePatterns: [
             {
@@ -12,8 +22,11 @@ const nextConfig = {
                 hostname: "*.myanimelist.net"
             }
         ]
+    },
+    env: {
+        NEXT_PUBLIC_COMMIT_HASH: getGitCommitHash()
     }
     // Keep any other existing Next.js config options you might have
 };
 
-module.exports = nextConfig;
+export default nextConfig;
